@@ -15,11 +15,13 @@ $spacing-unit:     30px !default;
 //$brand-color:      #2a7ae2 !default;
 
 $grey-color:       #50CFE0 !default;
-$grey-color-light: lighten($grey-color, 40%) !default;
-$grey-color-dark:  darken($grey-color, 25%) !default;
+$grey-color-light: $grey-color;
+// $grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark: $grey-color;
+//$grey-color-dark:  darken($grey-color, 25%) !default;
 
 $brand-color: #006D77;            // Deep Teal
-$highlight-color: #7A4EA6;        // Iridescent Purple
+$highlight-color: lighten( #7A4EA6, 20%);        // Iridescent Purple
 $secondary-color: #D3D3D3;        // Silver Metallic
 $accent-color: #50CFE0;           // Glowing Aqua
 $neutral-color: #27333F;          // Dark Blue-Gray

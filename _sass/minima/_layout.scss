@@ -62,6 +62,7 @@
       height: 36px;
       z-index: 2;
       cursor: pointer;
+      color: #50CFE0;
     }
 
     .menu-icon {
@@ -112,6 +113,7 @@
 
 .footer-heading {
   @include relative-font-size(1.125);
+  color: $grey-color;
   margin-bottom: $spacing-unit / 2;
 }
 
@@ -220,6 +222,7 @@
   @include relative-font-size(2.625);
   letter-spacing: -1px;
   line-height: 1;
+  color: #50CFE0;
 
   @include media-query($on-laptop) {
     @include relative-font-size(2.25);

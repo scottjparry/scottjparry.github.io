@@ -107,7 +107,7 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: darken($link-color, 15%);
+    color: ($link-color, 15%);
   }
 
   &:hover {
@@ -126,7 +126,7 @@ a {
 
 
 /**
- * Blockquotes
+ * Blockquotesz
  */
 blockquote {
   color: $grey-color;
@@ -151,7 +151,8 @@ code {
   @include relative-font-size(0.9375);
   border: 1px solid $grey-color-light;
   border-radius: 3px;
-  background-color: #eef;
+  background-color: #003f47;  /* Colour for code blocks in posts.*/
+ 
 }
 
 code {
