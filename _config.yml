@@ -33,9 +33,9 @@ linkedin_username: scottjparry
 
 
 # theme: minima
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 permalink: /:categories/:title/
-
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin: "dark"
 
 # Author Settings
@@ -53,6 +53,7 @@ include: ["_pages"]
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
