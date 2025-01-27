@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Parrybytes: Where Cybersecurity Meets Cuttlefish."
+title: "Parrybytes: Where Cybersecurity Meets Cuttlefish"
 email: scott@parrybytes.cloud
 description: >- # this means to ignore newlines until "baseurl:"
   Cybersecurity, with less doom and gloom and more "Ah, I get it now!"

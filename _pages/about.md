@@ -6,7 +6,7 @@ layout: single
 
 What's up? **Looks at the sky** - yeah I know...its a bad joke- you'll get used to it...
 
-If you haven't met me before my name is Scott, I'm a recovering Systems Engineer turned Cloud Architect working for a leading Microsoft Partner in Sydney. I spend my (work) days adapting and navigating the shifting currents of cloud security.
+If you haven't met me before my name is Scott, I'm a recovering Systems Engineer turned Cloud Architect working for a leading Microsoft Partner in Sydney. I spend my (work) days adapting to and navigating the shifting currents of cloud security.
 
 # The Cuttlefish
 
