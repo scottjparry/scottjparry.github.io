@@ -32,13 +32,27 @@ linkedin_username: scottjparry
 # Github username bottom of the page
 
 
-theme: minima
+# theme: minima
+theme: minimal-mistakes-jekyll
+permalink: /:categories/:title/
+
+minimal_mistakes_skin: "dark"
+
+# Author Settings
+author:
+  name: "Scott Parry"
+  email: "scott@parrybytes.cloud"
+  bio: "Forecast of light rain, strange analogies and enough caffeine to barter with a cuttlefish in a trenchcoat"
+  location: "Sydney, Australia"
+  avatar: "/assets/images/avatar.jpg"
 
 sass:
   style: compressed
 
+include: ["_pages"]
 
 plugins:
+  - jekyll-remote-theme
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
@@ -50,3 +64,34 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+#default config for Minimal Mistakes theme
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+# Navigation links
+nav:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
+  - title: "Posts"
+    url: /posts/
+
+    # Social media (optional)
+social:
+  linkedin: scottjparry
+  github: scottjparry
