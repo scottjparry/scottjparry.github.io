@@ -4,7 +4,7 @@ title: "Welcome to Parrybytes"
 permalink: /
 classes: landing
 header:
-  image: "{{ '/assets/images/header.png' | relative_url }}"
+  image: /assets/images/header.png
 ---
 
 # 👋 Welcome to Parrybytes!
