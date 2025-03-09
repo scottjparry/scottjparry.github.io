@@ -18,7 +18,7 @@ A crackly new broadcast echoes through the empty room
 
 "Emeregency weather forecast. Light rain. Strange analogies. Residents are urged to prepare coffee. Cuttlefish have been spotted in trench coats. They are demanding coffee in exchange for knowledge"
 
-<img src="/assets/images/Cuttlefish.jpg" alt="The Cuttlefish" width="300">
+<img src="/assets/images//hero/avatar.jpg" alt="The Cuttlefish" width="300">
 
 
 By now you're wondering why I chose a cuttlefish as our guide on this cybersecurity journey. If you're not, then the whole paragraph has no point and that would be a shame. I was initially thinking a Racoon, you know, looks permanently exhausted, always has its hands full, non-zero chance that it might bite you! That reminded me of a cybersecurity team! I realised that the Cuttlefish better embodies the modern cybersecurity team, they dont rely on brute force or thick armor like a saltie, they survive through their intelligence, ability to adapt to any situation...and they are kind of clever, sound familiar to you?
