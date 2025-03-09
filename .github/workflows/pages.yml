@@ -5,14 +5,11 @@ on:
     branches:
       - "main"
     paths:
-      - "/**"  # Only trigger if files under docs change
+      - "**/*"  # Trigger on any change; adjust if you wish to limit to specific folders
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: /  # All commands run from docs
     steps:
       - uses: actions/checkout@v3
       
@@ -21,19 +18,18 @@ jobs:
         with:
           ruby-version: '3.3'
           bundler-cache: true
-          working-directory: '${{ github.workspace }}/'
       
       - name: Install dependencies
         run: bundle install
       
       - name: Build site with Jekyll
         run: bundle exec jekyll build
-
+      
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: _site/  # Upload the built site
-
+          path: _site/
+  
   deploy:
     needs: build
     runs-on: ubuntu-latest
@@ -44,5 +40,5 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v3
         with:
-          branch: gh-pages   # The branch GitHub Pages uses for deployment
-          folder: _site      # Deploy the contents of the _site folder
+          branch: gh-pages   # This is the branch GitHub Pages will use for deployment
+          folder: _site

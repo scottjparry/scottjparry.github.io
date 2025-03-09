@@ -1,7 +1,20 @@
+# _config.yml
 title: "Parrybytes: Where Cybersecurity Meets Cuttlefish"
-description: Cybersecurity, with less doom and gloom and more "Ah, I get it now!"
-theme: just-the-docs
-url: https://scottjparry.github.io/
+description: "A blog exploring cybersecurity insights with a quirky twist."
+url: "https://parrybytes.cloud"
+baseurl: ""       # No baseurl needed for a user site
+
+theme: "just-the-docs"
+
+# Define a custom collection named posts
+collections:
+  posts:
+    output: true
+    permalink: /posts/:year/:month/:day/:title/
+
+# Optional: Configure search and navigation (adjust as desired)
+search_enabled: true
+nav_order: 1
 
 # Just the Docs settings
 aux_links:
