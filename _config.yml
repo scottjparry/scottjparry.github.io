@@ -1,11 +1,18 @@
-title: Parrybytes: Where Cybersecurity Meets Cuttlefish
+title: "Parrybytes: Where Cybersecurity Meets Cuttlefish"
 description: Cybersecurity, with less doom and gloom and more "Ah, I get it now!"
 theme: just-the-docs
 
 # Just the Docs settings
-search_enabled: true
 aux_links:
   "View on GitHub":
     - "//github.com/scottjparry"
   "Find me on LinkedIn":
-    - "//linkedin.com/scottjparry"
+    - "//linkedin.com/in/scottjparry"
+
+color_scheme: dark
+
+
+# Enable custom SCSS
+# sass:
+#   load_paths:
+#     - _sass

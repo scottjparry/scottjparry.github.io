@@ -14,9 +14,9 @@ If you haven't met me before my name is Scott, I'm a recovering Systems Engineer
 
 It's late at night, you sit down at your desk, the low hum of the fan the only noise in an otherwise quiet house. Then you hear a radio crackle to life. You think to yourself thats strange...I dont have a radio...
 
-A crackly new broadcast echoes through the empty room
+A crackly news broadcast echoes through the empty room
 
-"Emeregency weather forecast. Light rain. Strange analogies. Residents are urged to prepare coffee. Cuttlefish have been spotted in trench coats. They are demanding coffee in exchange for knowledge"
+"Emergency weather forecast. Light rain. Strange analogies. Residents are urged to prepare coffee. Cuttlefish have been spotted in trench coats. They are demanding coffee in exchange for knowledge"
 
 <img src="/assets/images//hero/avatar.jpg" alt="The Cuttlefish" width="300">
 
