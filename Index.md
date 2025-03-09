@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Welcome to Parrybytes
-nav_order: 1
 ---
 
 # 👋 Welcome to Parrybytes!
