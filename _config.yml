@@ -18,81 +18,28 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Parrybytes: Where Cybersecurity Meets Cuttlefish"
+title: "Parrybytes"
 email: scott@parrybytes.cloud
 description: >- # this means to ignore newlines until "baseurl:"
-  Cybersecurity, with less doom and gloom and more "Ah, I get it now!"
+   Cybersecurity, with less doom and gloom and more "Ah, I get it now!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://parrybytes.cloud/" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-# Twitter username bottom of the page
-github_username:  scottjparry
-linkedin_username: scottjparry
 
-# Github username bottom of the page
-
-
-# theme: minima
-# theme: minimal-mistakes-jekyll
-permalink: /:categories/:title/
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-minimal_mistakes_skin: "dark"
-
-# Author Settings
-author:
-  name: "Scott Parry"
-  email: "scott@parrybytes.cloud"
-  bio: "Forecast of light rain, strange analogies and enough caffeine to barter with a cuttlefish in a trenchcoat"
-  location: "Sydney, Australia"
-  avatar: "/assets/images/avatar.jpg"
-
-sass:
-  style: compressed
-
-include: ["_pages"]
 
 plugins:
-  - jekyll-remote-theme
-  - jekyll-include-cache
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+ - jekyll-feed
 
-#default config for Minimal Mistakes theme
+just_the_docs:
+  nav_depth: 2
 
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: splash
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+color_scheme: dark
 
-# Navigation links
-nav:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about/
-  - title: "Contact"
-    url: /contact/
-  - title: "Posts"
-    url: /posts/
+# Just the Docs settings
+search_enabled: true
+aux_links:
+  "View on GitHub":
+    - "//github.com/scottjparry"
+  "Find me on LinkedIn":
+    - "//linkedin.com/scottjparry"
 
-    # Social media (optional)
-social:
-  linkedin: scottjparry
-  github: scottjparry
+remote_theme: "just-the-docs/just-the-docs"
