@@ -5,6 +5,7 @@ has_children: true
 parent: "Work Blogs" 
 last_modified_date: 2024-10-09
 ---
+**Originally published for Arinco**
 
 # Transitioning from System Engineer to IT Consultant: Leveraging Your Existing Skills
 
