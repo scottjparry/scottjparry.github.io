@@ -1,7 +1,8 @@
 ---
-title: "Posts"
-permalink: /posts/
+title: "Blog"
 layout: default
+has_children: true
+nav_order: 2
 ---
 
 # Blog Posts

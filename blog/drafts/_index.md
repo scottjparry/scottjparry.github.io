@@ -1,6 +1,7 @@
 ---
-title: "blogs"
+Title: "Blogs"
 layout: default
+has_children: true
 ---
 
 # Blog Posts
