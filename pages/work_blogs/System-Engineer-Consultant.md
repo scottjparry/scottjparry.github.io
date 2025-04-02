@@ -1,5 +1,6 @@
 ---
 title: "Transitioning from System Engineer to IT Consultant: Leveraging Your Existing Skills"
+canonical_url: "https://arinco.com.au/blog/from-system-engineer-to-azure-consultant/"
 layout: home
 has_children: true
 parent: "Work Blogs" 
