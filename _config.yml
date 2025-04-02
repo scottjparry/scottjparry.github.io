@@ -29,11 +29,17 @@ url: "https://parrybytes.cloud/" # the base hostname & protocol for your site, e
 plugins:
  - jekyll-feed
  - jekyll-sitemap
-
+ - jekyll-seo-tag
 just_the_docs:
   nav_depth: 2
 
 color_scheme: dark
+
+title: "Parrybytes: Cloud Security Insights & Cybersecurity Strategies by Scott J Parry"
+description: "Parrybytes is my digital hub for cloud security insights, cybersecurity thought leadership, and modern IT governance strategies, blending practical expertise with forward-thinking analysis."
+url: "https://parrybytes.cloud"  # Your custom domain URL
+social:
+  linkedin: "https://www.linkedin.com/in/scottjparry" 
 
 # Just the Docs settings
 search_enabled: true
