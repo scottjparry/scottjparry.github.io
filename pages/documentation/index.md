@@ -1,5 +1,5 @@
 ---
-title: "Documentation"
+title: "Snorkelling"
 layout: home
 has_children: true
 nav_order: 3
@@ -9,4 +9,4 @@ nav_order: 3
 
 This is where you will be able to find various discussions on architecture and designs I have worked on.
 
-These are roughly broken up in the normal documentation and more advanced topics.
+These are roughly broken up into general topics and high level overviews (snorkelling) and deep dives.
