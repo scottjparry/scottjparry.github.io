@@ -27,7 +27,7 @@ I've got my tentacles dipped into several digital ponds
 
 # Why am I writing
 
-Honestly, we have all been through the same mind-numbind presentations where we have no ..... idea what is being talked about, its acronym soup with a side of jargon and at this point you're not even sure they are speaking english. I know their is a btter way. Security does not have to scary, cloud computing doesnt have to be cloudy (hmmm - ill work on that) and Frameworks dont need to be oppersive.
+Honestly, we have all been through the same mind-numbing presentations where we have no ..... idea what is being talked about, its acronym soup with a side of jargon and at this point you're not even sure they are speaking english. I know their is a btter way. Security does not have to scary, cloud computing doesnt have to be cloudy (hmmm - ill work on that) and Frameworks dont need to be oppersive.
 
 I want cybersecurity to be accessible to anyone that works with technology, my pet peeve is when people say "its not my job" or "I don't understand", i'm making it my mission to make cybersecurity more accessible.
 
@@ -41,10 +41,14 @@ What we will try and do it
 - The adventures and misadventures of cybersecurity
 - Breakdowns of cybersecurity frameworks which actually make sense
 - Cloud Conundrems and their solutions without the wet blanket
-- Lots of terrible puns and animal references which hopefully make sense to you as well.
+- Lots of excellent puns and animal references which hopefully make sense to you as well.
 
 # Pull up a chair
 
 Whether you're a harded security veteran, curious about what makes the cloud tech or even if you work in sales (I wont judge) you're welcome here. We'll explore together, share some laughs and try and find some better ways to do this.
 
 I'm just going to duck off and make a coffee (My favourite is "Lots") and then we can dive in and explore Cybersecurity, with less doom and gloom and more "Ah, I get it now!"
+
+# Where to find me?
+
+If you want to find me somewhere else you can try looking...but I would recommend looking at LinkedIn (https://www.linkedin.com/in/scottjparry/)
