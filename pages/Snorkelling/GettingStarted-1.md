@@ -4,10 +4,14 @@ layout: home
 parent: "🐠 Snorkelling"
 description: "A light dive into what you actually need to start working in Microsoft Cloud Security, featuring laptops, documentation, VS Code, and one very curious platypus."
 tags: [cloud-security, microsoft, beginner, snorkelling, parrybytes]
+last_modified_date: 2025-04-18
+has_toc: true
 ---
 
 
 # 🐠 Snorkelling: Getting Started with Microsoft Cloud Security
+
+{:toc}
 
 **Welcome to the reef. It’s bright, busy, and occasionally bites.**
 
