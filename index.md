@@ -13,7 +13,7 @@ Dive into a space where cloud security meets clarity. At ParryBytes.cloud, we ex
 
 [Echoes from the Deep](./pages/Echoes_From_The_Deep): Strategic insights and overarching trends in cloud security.
 
-[Field Notes](./pages/Field_Notes): Practical, real-world guidance and applied case studies.
+[Snorkelling](./pages/Snorkelling/): Practical, real-world guidance and applied case studies.
 
 [Deep Dives](./pages/Deep_Dives/): In-depth technical explorations and detailed analyses.
 
