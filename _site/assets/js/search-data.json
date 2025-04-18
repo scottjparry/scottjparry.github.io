@@ -2,204 +2,253 @@
     "doc": "Elevate Your Password Security: A Cybersecurity Awareness Month Special",
     "title": "Elevate Your Password Security: A Cybersecurity Awareness Month Special",
     "content": ". | The Significance of Strong Passwords | NIST’s Password Guidelines for Consumers . | 1. Passphrases Over Passwords | 2. Longer is Better | 3. Avoid Common Words and Patterns | 4. Regular Password Updates | 5. Embrace Multi-Factor Authentication (MFA) | . | Why is NIST guidance relevant to me? . | 1. Expertise and Credibility | 2. Real-World Testing | 3. Ongoing Updates | 4. Wide Applicability | 5. Personal Cyber Resilience | . | Conclusion | . In a digital landscape filled with potential threats, your online security hinges on the strength of your passwords. October is Cybersecurity Awareness Month, making it the perfect time to revisit your password practices and bolster your digital defences. The National Institute of Standards and Technology (NIST), a renowned authority in cybersecurity, offers a comprehensive framework for password security that is pivotal for safeguarding both organisational data and your personal online presence. ",
-    "url": "/pages/work_blogs/Cybersecurity-awareness-2024-MFA.html#elevate-your-password-security-a-cybersecurity-awareness-month-special",
+    "url": "/pages/Echoes_From_Elsewhere/Cybersecurity-awareness-2024-MFA.html#elevate-your-password-security-a-cybersecurity-awareness-month-special",
     
-    "relUrl": "/pages/work_blogs/Cybersecurity-awareness-2024-MFA.html#elevate-your-password-security-a-cybersecurity-awareness-month-special"
+    "relUrl": "/pages/Echoes_From_Elsewhere/Cybersecurity-awareness-2024-MFA.html#elevate-your-password-security-a-cybersecurity-awareness-month-special"
   },"1": {
     "doc": "Elevate Your Password Security: A Cybersecurity Awareness Month Special",
     "title": "The Significance of Strong Passwords",
     "content": "Before we delve into the specifics of NIST’s guidelines, let’s underline the crucial role strong passwords play in the realm of cybersecurity. Passwords are your initial line of defence against unauthorised access to your accounts, personal information, and sensitive data. Weak passwords are like open doors inviting cybercriminals in, while strong passwords act as the locks that keep them out. ",
-    "url": "/pages/work_blogs/Cybersecurity-awareness-2024-MFA.html#the-significance-of-strong-passwords",
+    "url": "/pages/Echoes_From_Elsewhere/Cybersecurity-awareness-2024-MFA.html#the-significance-of-strong-passwords",
     
-    "relUrl": "/pages/work_blogs/Cybersecurity-awareness-2024-MFA.html#the-significance-of-strong-passwords"
+    "relUrl": "/pages/Echoes_From_Elsewhere/Cybersecurity-awareness-2024-MFA.html#the-significance-of-strong-passwords"
   },"2": {
     "doc": "Elevate Your Password Security: A Cybersecurity Awareness Month Special",
     "title": "NIST’s Password Guidelines for Consumers",
     "content": "NIST’s Special Publication 800-63B, known as the “Digital Identity Guidelines,” furnishes a robust set of recommendations for creating and maintaining secure passwords. Here’s how you can implement these guidelines to fortify your personal online security: . 1. Passphrases Over Passwords . NIST emphasises the use of passphrases over conventional passwords. Passphrases, composed of multiple words or a sentence, are longer and easier to remember. For instance, “CoffeeLover$MakeGreatMornings!” is a strong passphrase that is not only secure but also user-friendly. 2. Longer is Better . NIST suggests a minimum password length of 12 characters. Longer passwords offer enhanced security, as they present a more formidable challenge to attackers attempting to crack them. To boost complexity, incorporate a mix of uppercase and lowercase letters, numbers, and special characters. The concept a passphrase comes into its own when combined with this suggestion. Using your favourite sentence from a book can be a great start to a strong password. 3. Avoid Common Words and Patterns . Steer clear of easily guessable passwords. NIST recommends avoiding common words, phrases, and patterns like “123456,” “password,” or “qwerty,” as they are susceptible to dictionary attacks. This advice from NIST also applies to things like your company name, birthday, names of family members etc. 4. Regular Password Updates . NIST no longer endorses frequent password changes, which can lead to weaker passwords due to predictable patterns (e.g., “password1,” “password2,” and so on). Instead, change your password only when there is a known compromise or if you suspect unauthorised access. While I admit, this is the most contentious piece of advice in this article, I stand by it. If you have a sufficiently long and complex password, there is no requirement to change the password. Password strength checkers estimate the above password “CoffeeLover$MakeGreatMornings!” would take 13 centuries to crack. A string of 19 random characters with a mix of lower case, upper case, numbers and symbols would take 2 thousand trillion years. Microsoft Edge, Google Chrome, and Mozilla Firefox all have functionality built into their password managers to alert you to compromised passwords, as do the major password managers on the market. 5. Embrace Multi-Factor Authentication (MFA) . Implementing MFA is strongly encouraged. It adds an additional layer of security by requiring something you know (your password) and something you have (e.g., a mobile app or a hardware token) to access your accounts. Most major services will offer some form of MFA for accounts. And if they don’t, you should strongly consider whether you need to use the service and what kind of data of yours they are storing. ",
-    "url": "/pages/work_blogs/Cybersecurity-awareness-2024-MFA.html#nists-password-guidelines-for-consumers",
+    "url": "/pages/Echoes_From_Elsewhere/Cybersecurity-awareness-2024-MFA.html#nists-password-guidelines-for-consumers",
     
-    "relUrl": "/pages/work_blogs/Cybersecurity-awareness-2024-MFA.html#nists-password-guidelines-for-consumers"
+    "relUrl": "/pages/Echoes_From_Elsewhere/Cybersecurity-awareness-2024-MFA.html#nists-password-guidelines-for-consumers"
   },"3": {
     "doc": "Elevate Your Password Security: A Cybersecurity Awareness Month Special",
     "title": "Why is NIST guidance relevant to me?",
     "content": "NIST’s password security guidelines hold crucial significance, not only for organisations, but also for individual consumers, for several compelling reasons: . 1. Expertise and Credibility . NIST is a highly respected and authoritative institution in the realm of technology and cybersecurity. Their recommendations are developed by experts who continuously analyse and adapt to the ever-evolving threat landscape. 2. Real-World Testing . NIST’s guidelines are grounded in real-world security testing and research, stemming from a profound understanding of how cyberattacks occur and how to effectively counter them. 3. Ongoing Updates . NIST’s willingness to adapt its guidelines to changing circumstances ensures that their recommendations remain pertinent and effective in the face of emerging threats. 4. Wide Applicability . NIST guidelines aren’t just reserved for government agencies; they are widely used by organisations and individuals around the world. This broad acceptance underscores their practicality and effectiveness. 5. Personal Cyber Resilience . By adhering to NIST’s recommendations, you can significantly bolster your personal cybersecurity stance and enhance your resilience against emerging threats. NIST’s focus on secure, user-friendly practices, such as using passphrases and implementing MFA, positions it as a valuable benchmark for achieving cyber resilience as a consumer. ",
-    "url": "/pages/work_blogs/Cybersecurity-awareness-2024-MFA.html#why-is-nist-guidance-relevant-to-me",
+    "url": "/pages/Echoes_From_Elsewhere/Cybersecurity-awareness-2024-MFA.html#why-is-nist-guidance-relevant-to-me",
     
-    "relUrl": "/pages/work_blogs/Cybersecurity-awareness-2024-MFA.html#why-is-nist-guidance-relevant-to-me"
+    "relUrl": "/pages/Echoes_From_Elsewhere/Cybersecurity-awareness-2024-MFA.html#why-is-nist-guidance-relevant-to-me"
   },"4": {
     "doc": "Elevate Your Password Security: A Cybersecurity Awareness Month Special",
     "title": "Conclusion",
     "content": "In conclusion, NIST’s recommendations for password security provide a robust framework to strengthen your personal defences against the ever-evolving digital threat landscape. By adopting the latest guidance outlined in the Special Publication 800-63B, you can fortify your digital identity and maintain cyber resilience. Remember, your password is your first line of defence and NIST’s guidelines set the standard for building a secure fortress in the digital age. If you are concerned about creating complex passwords you can remember even with the above advice, you may want to look into passwords managers. They all come with various security features and at different price points, but you are guaranteed to find one that meets your needs. ",
-    "url": "/pages/work_blogs/Cybersecurity-awareness-2024-MFA.html#conclusion",
+    "url": "/pages/Echoes_From_Elsewhere/Cybersecurity-awareness-2024-MFA.html#conclusion",
     
-    "relUrl": "/pages/work_blogs/Cybersecurity-awareness-2024-MFA.html#conclusion"
+    "relUrl": "/pages/Echoes_From_Elsewhere/Cybersecurity-awareness-2024-MFA.html#conclusion"
   },"5": {
     "doc": "Elevate Your Password Security: A Cybersecurity Awareness Month Special",
     "title": "Elevate Your Password Security: A Cybersecurity Awareness Month Special",
     "content": "Originally published for Arinco . ",
-    "url": "/pages/work_blogs/Cybersecurity-awareness-2024-MFA.html",
+    "url": "/pages/Echoes_From_Elsewhere/Cybersecurity-awareness-2024-MFA.html",
     
-    "relUrl": "/pages/work_blogs/Cybersecurity-awareness-2024-MFA.html"
+    "relUrl": "/pages/Echoes_From_Elsewhere/Cybersecurity-awareness-2024-MFA.html"
   },"6": {
+    "doc": "Snorkelling: Getting Started with Microsoft Cloud Security",
+    "title": "🐠 Snorkelling: Getting Started with Microsoft Cloud Security",
+    "content": "Welcome to the reef. It’s bright, busy, and occasionally bites. If you’ve ever looked at Microsoft’s cloud security stack and felt overwhelmed—relax. You don’t need a million certs, a rack of gear, or clearance from ASIO. What you do need are a few essential tools, a healthy dose of curiosity, and the philosophical fortitude of one very strange animal. Let’s begin. ",
+    "url": "/pages/Snorkelling/GettingStarted-1.html#-snorkelling-getting-started-with-microsoft-cloud-security",
+    
+    "relUrl": "/pages/Snorkelling/GettingStarted-1.html#-snorkelling-getting-started-with-microsoft-cloud-security"
+  },"7": {
+    "doc": "Snorkelling: Getting Started with Microsoft Cloud Security",
+    "title": "🧰 1. A Laptop (Not Fancy, Just Functional)",
+    "content": "You don’t need a 96-core monster with RGB lighting and a GPU capable of rendering Middle-earth. A solid laptop with a modern browser, a decent CPU, and a willingness to multitask is more than enough. ",
+    "url": "/pages/Snorkelling/GettingStarted-1.html#-1-a-laptop-not-fancy-just-functional",
+    
+    "relUrl": "/pages/Snorkelling/GettingStarted-1.html#-1-a-laptop-not-fancy-just-functional"
+  },"8": {
+    "doc": "Snorkelling: Getting Started with Microsoft Cloud Security",
+    "title": "📚 2. Documentation (The Microsoft Kind)",
+    "content": "Your new best friend is the Microsoft Learn platform. Bookmark the docs for Defender for Cloud, Entra ID, Intune, and the Security Compliance toolkit. ",
+    "url": "/pages/Snorkelling/GettingStarted-1.html#-2-documentation-the-microsoft-kind",
+    
+    "relUrl": "/pages/Snorkelling/GettingStarted-1.html#-2-documentation-the-microsoft-kind"
+  },"9": {
+    "doc": "Snorkelling: Getting Started with Microsoft Cloud Security",
+    "title": "💻 3. VS Code (or Something Equally Sassy)",
+    "content": "You’ll be scripting policies, writing JSON, and poking Graph API with a stick. Visual Studio Code is your lightweight Swiss Army knife. Install extensions for: . | Azure Resource Manager (ARM) | Bicep | PowerShell | Markdown | . Bonus: add GitHub integration. ",
+    "url": "/pages/Snorkelling/GettingStarted-1.html#-3-vs-code-or-something-equally-sassy",
+    
+    "relUrl": "/pages/Snorkelling/GettingStarted-1.html#-3-vs-code-or-something-equally-sassy"
+  },"10": {
+    "doc": "Snorkelling: Getting Started with Microsoft Cloud Security",
+    "title": "🦆 4. An Insatiable Need to Know (Activate Your Inner Platypus)",
+    "content": "You’ll need one key trait to thrive in Microsoft Cloud Security: curiosity. Channel your inner platypus—a creature that lays eggs, senses electromagnetic fields, and has venom. It’s weird, underestimated, and perfectly adapted to thrive where few others can. So should you be. 🐙 Coming Up Next in Snorkelling: . | “The Portal Tour: What the Hell is Where?” | “M365 vs Azure Security: Why Are There Two of Everything?” | “Conditional Access for Humans (Not Robots)” | . Until then, snorkel up, curiosity on. The reef’s only going to get weirder from here. ",
+    "url": "/pages/Snorkelling/GettingStarted-1.html#-4-an-insatiable-need-to-know-activate-your-inner-platypus",
+    
+    "relUrl": "/pages/Snorkelling/GettingStarted-1.html#-4-an-insatiable-need-to-know-activate-your-inner-platypus"
+  },"11": {
+    "doc": "Snorkelling: Getting Started with Microsoft Cloud Security",
+    "title": "Snorkelling: Getting Started with Microsoft Cloud Security",
+    "content": " ",
+    "url": "/pages/Snorkelling/GettingStarted-1.html",
+    
+    "relUrl": "/pages/Snorkelling/GettingStarted-1.html"
+  },"12": {
     "doc": "Transitioning from System Engineer to IT Consultant: Leveraging Your Existing Skills",
     "title": "Transitioning from System Engineer to IT Consultant: Leveraging Your Existing Skills",
     "content": "Are you a seasoned systems engineer looking to make the leap into the world of IT consulting? Are you worried that you are too much of a generalist to become a specialist? It can be a daunting prospect, but know that it can also be a rewarding transition. You can leverage your existing skills and propel your career to new heights. We will explore five key themes that I came across while making the transition. 1. Trust Your Technology Skills . As a system engineer, you’ve spent years in the trenches mastering various technologies, troubleshooting complex issues, and architecting solutions. Don’t underestimate the value of your technical expertise. In the world of IT consulting, clients seek professionals who can provide expert guidance on technology-related matters. Your broad and deep knowledge in this area is a valuable asset that will set you apart from the competition. If you have kept your skills up to date to support your employer you can keep up to date with the latest industry trends and advancements to support your future customers. 2. Focus on Business Skills, Including Presentations . While your technical skills are essential a successful IT consultant also possesses strong business acumen. Learning to speak the language of your clients is essential, whether that is honing your communication, negotiation or project management skills. Effective presentation skills are also particularly crucial as they enable you to clearly convey complex technical information to non-technical stakeholders. You should invest time in improving your ability to articulate your ideas, proposals and solutions. 3. Expectation Management . In the consulting world, managing expectations is paramount. You have to be transparent and realistic when discussion project timelines, deliverables and potential challenges with clients. Making sure you set accurate expectations from the beginning will help to build trust and prevent misunderstandings down the road. Effective expectation management is a key element of successful client relationships. This may seem daunting, but you have likely been doing this for internal projects already. 4. Understand the “Why” . Being a good IT consultant must go beyond the technical problem-solving. You need to take the time to understand the underlying business goals and objectives your client is trying to meet. Your technical solution should align with their strategic vision. If you can move beyond problem-solving and also help the client meet their business objectives, you become a trusted partner rather than just a service provider. 5. Realize You’ve Already Been Consulting . While you have likely never officially held the title of “consultant,” if you are employed as a systems engineer, you’ve most likely provided consulting-like services to internal teams or clients. Reflect on your past experiences where you have offered guidance, made recommendations for solutions, or helped others to solve a problem. These instances all demonstrate the same abilities that consultants use, even if it was informal. Recognizing your existing experience in consulting can boost your confidence when you make the transition. It definitely helped me! . Conclusion . Transitioning from a systems engineer to an IT consultant is an exciting journey that allows you to leverage your existing skills while greatly expanding your horizons. Trust in your technical expertise, continue to develop your business skills, master expectation management, understand the “why” behind the solution, and realize you’ve already been consulting. With the five key themes in mind, embrace your new role as an IT consultant with confidence and enthusiasm. Your own unique combination of technical skills and consulting mindset will undoubtedly lead to a successful and fulfilling career in IT consulting. If this sounds like something that interests you maybe you would like to Join The Crew - Arinco . ",
-    "url": "/pages/work_blogs/System-Engineer-Consultant.html#transitioning-from-system-engineer-to-it-consultant-leveraging-your-existing-skills",
+    "url": "/pages/Echoes_From_Elsewhere/System-Engineer-Consultant.html#transitioning-from-system-engineer-to-it-consultant-leveraging-your-existing-skills",
     
-    "relUrl": "/pages/work_blogs/System-Engineer-Consultant.html#transitioning-from-system-engineer-to-it-consultant-leveraging-your-existing-skills"
-  },"7": {
+    "relUrl": "/pages/Echoes_From_Elsewhere/System-Engineer-Consultant.html#transitioning-from-system-engineer-to-it-consultant-leveraging-your-existing-skills"
+  },"13": {
     "doc": "Transitioning from System Engineer to IT Consultant: Leveraging Your Existing Skills",
     "title": "Transitioning from System Engineer to IT Consultant: Leveraging Your Existing Skills",
     "content": "Originally published for Arinco . ",
-    "url": "/pages/work_blogs/System-Engineer-Consultant.html",
+    "url": "/pages/Echoes_From_Elsewhere/System-Engineer-Consultant.html",
     
-    "relUrl": "/pages/work_blogs/System-Engineer-Consultant.html"
-  },"8": {
+    "relUrl": "/pages/Echoes_From_Elsewhere/System-Engineer-Consultant.html"
+  },"14": {
     "doc": "About",
     "title": "The Cuttlefish",
     "content": ". By now you’re wondering why I chose a cuttlefish as our guide on this cybersecurity journey. If you’re not, then the whole paragraph has no point and that would be a shame. I was initially thinking a Racoon, you know, looks permanently exhausted, always has its hands full, non-zero chance that it might bite you! I realised that the Cuttlefish better embodies the modern cybersecurity team, they dont rely on brute force or thick armor like a saltie, they survive through their intelligence, ability to adapt to any situation…and they are kind of clever, sound familiar to you? . Yes…you just got compared to a cephalapod! In a good way I promise… . ",
     "url": "/about/#the-cuttlefish",
     
     "relUrl": "/about/#the-cuttlefish"
-  },"9": {
+  },"15": {
     "doc": "About",
     "title": "What makes me tick?",
-    "content": "I’ve got my tentacles dipped into several digital ponds . | I wrestling with Microsoft Azure until it behaves | I fortify Microsoft 365 environments (but still keep them usable) | I make sense (or try to) of cybersecurity frameworks and get rid of the headaches | I build cloud security solutions that work in the real world and not just the ivory tower. | Musing on technical leadership and what that actually means. | . ",
+    "content": "I’ve got my tentacles dipped into several digital ponds . | I wrestele with Microsoft Azure until it behaves | I fortify Microsoft 365 environments (but still keep them usable) | I make sense (or try to) of cybersecurity frameworks and get rid of the headaches | I build cloud security solutions that work in the real world and not just the ivory tower. | I muse on technical leadership and what that actually means. | . ",
     "url": "/about/#what-makes-me-tick",
     
     "relUrl": "/about/#what-makes-me-tick"
-  },"10": {
+  },"16": {
     "doc": "About",
     "title": "Why am I writing",
     "content": "Honestly, we have all been through the same mind-numbind presentations where we have no ….. idea what is being talked about, its acronym soup with a side of jargon and at this point you’re not even sure they are speaking english. I know their is a btter way. Security does not have to scary, cloud computing doesnt have to be cloudy (hmmm - ill work on that) and Frameworks dont need to be oppersive. I want cybersecurity to be accessible to anyone that works with technology, my pet peeve is when people say “its not my job” or “I don’t understand”, i’m making it my mission to make cybersecurity more accessible. ",
     "url": "/about/#why-am-i-writing",
     
     "relUrl": "/about/#why-am-i-writing"
-  },"11": {
+  },"17": {
     "doc": "About",
     "title": "What you can expect here",
     "content": "This blog will try and cut through the noise, we aren’t playing buzzword bingo, we wont participating in fear mongering. What we will try and do it . | Provide practical security advice from the Mariana (mmmmm Marinara) trenches | The adventures and misadventures of cybersecurity | Breakdowns of cybersecurity frameworks which actually make sense | Cloud Conundrems and their solutions without the wet blanket | Lots of terrible puns and animal references which hopefully make sense to you as well. | . ",
     "url": "/about/#what-you-can-expect-here",
     
     "relUrl": "/about/#what-you-can-expect-here"
-  },"12": {
+  },"18": {
     "doc": "About",
     "title": "Pull up a chair",
     "content": "Whether you’re a harded security veteran, curious about what makes the cloud tech or even if you work in sales (I wont judge) you’re welcome here. We’ll explore together, share some laughs and try and find some better ways to do this. I’m just going to duck off and make a coffee (My favourite is “Lots”) and then we can dive in and explore Cybersecurity, with less doom and gloom and more “Ah, I get it now!” . ",
     "url": "/about/#pull-up-a-chair",
     
     "relUrl": "/about/#pull-up-a-chair"
-  },"13": {
+  },"19": {
     "doc": "About",
     "title": "About",
     "content": "What’s up? Looks at the sky - yeah I know…its a bad joke- you’ll get used to it… . If you haven’t met me before my name is Scott, I’m a recovering Systems Engineer turned Cloud Architect working for a leading Microsoft Partner in Sydney. I spend my (work) days adapting to and navigating the shifting currents of cloud security. ",
     "url": "/about/",
     
     "relUrl": "/about/"
-  },"14": {
-    "doc": "Documentation1",
-    "title": "Blog 1",
-    "content": " ",
-    "url": "/pages/documentation/advanced_documentation/advanced_documentation1.html#blog-1",
-    
-    "relUrl": "/pages/documentation/advanced_documentation/advanced_documentation1.html#blog-1"
-  },"15": {
-    "doc": "Documentation1",
-    "title": "Documentation1",
-    "content": " ",
-    "url": "/pages/documentation/advanced_documentation/advanced_documentation1.html",
-    
-    "relUrl": "/pages/documentation/advanced_documentation/advanced_documentation1.html"
-  },"16": {
+  },"20": {
     "doc": "Blogs1",
     "title": "Blog 1",
     "content": " ",
-    "url": "/pages/blogs/blog1.html#blog-1",
+    "url": "/pages/Echoes_From_The_Deep/blog1.html#blog-1",
     
-    "relUrl": "/pages/blogs/blog1.html#blog-1"
-  },"17": {
+    "relUrl": "/pages/Echoes_From_The_Deep/blog1.html#blog-1"
+  },"21": {
     "doc": "Blogs1",
     "title": "Blogs1",
     "content": " ",
-    "url": "/pages/blogs/blog1.html",
+    "url": "/pages/Echoes_From_The_Deep/blog1.html",
     
-    "relUrl": "/pages/blogs/blog1.html"
-  },"18": {
-    "doc": "Blogs",
-    "title": "Blogs",
-    "content": "This is where the blogs live. ",
-    "url": "/pages/blogs/blogs.html",
-    
-    "relUrl": "/pages/blogs/blogs.html"
-  },"19": {
+    "relUrl": "/pages/Echoes_From_The_Deep/blog1.html"
+  },"22": {
     "doc": "Contact",
     "title": "Contact Me",
     "content": "I’d love to hear from you! Feel free to reach out via email or social media. | Email: scott@parrybytes.cloud | GitHub: scottjparry | LinkedIn: scottjparry | . ",
     "url": "/contact/#contact-me",
     
     "relUrl": "/contact/#contact-me"
-  },"20": {
+  },"23": {
     "doc": "Contact",
     "title": "Contact",
     "content": " ",
     "url": "/contact/",
     
     "relUrl": "/contact/"
-  },"21": {
-    "doc": "Getting Started",
-    "title": "Geting started",
-    "content": "“The journey of a thousand miles begins beneath one tentacle,” the cuttlefish thought to itself, “We do not take steps, but rather suggestions of movement; we do not follow paths, but rather drift where the currents take us.” . The creature’s skin rippled with limitless colourr as it contemplated the impossible of the journey ahead, knowing that even the inkiest black depths of the sea were merely the beginning of the true voyage—the one that occurs within the labyrinth of a cephalapods mind! . So you know that you want to start learning about “the cloud” but you’re not sure where you should start? . Let me tell you the same thing our cephalapod friend here would say, start at the beginning. The dirty secret of the industry is that cloud computing, its exactly the same as on-prem computing, you’re just using someone elses computer. A while there is a bit more intricacy to it than that, really, thats the secret. If you are able to understand how computers, systems, networks, programming languages and coffee machines work, you will always be able to find a job. Yes, all of those are critical, technology teams run on caffeine, its a little known fact. ",
-    "url": "/pages/documentation/documentation1.html#geting-started",
-    
-    "relUrl": "/pages/documentation/documentation1.html#geting-started"
-  },"22": {
-    "doc": "Getting Started",
-    "title": "What is this?",
-    "content": "Well, this is an introduction into the world on Microsoft Cloud and its many facets, lets have a look around shall we? . First you have Azure, where global powerhouses have moved their datacentres. There millions of processes, petabytes of ram and more storage than I know how to count, all humming along to deliver value to business. Then their is Microsoft 365, with its SharePoint sites full of documents, Teams channesl full of cat gifs, Emails in Exchange Online and even the new kids on the block like Microsoft Loop. You have EntraId (The artist formerly known as Azure Active Directory), the brains behind a lot of this, it managers the identities of businesses all over the globe, whether its for Finance, HR or Technology teams, or if its a External Tenant where your customers can create accounts for the application you’ve built. ",
-    "url": "/pages/documentation/documentation1.html#what-is-this",
-    
-    "relUrl": "/pages/documentation/documentation1.html#what-is-this"
-  },"23": {
-    "doc": "Getting Started",
-    "title": "Getting Started",
-    "content": " ",
-    "url": "/pages/documentation/documentation1.html",
-    
-    "relUrl": "/pages/documentation/documentation1.html"
   },"24": {
-    "doc": "Documentation",
-    "title": "Documentation",
-    "content": "This is where you will be able to find various discussions on architecture and designs I have worked on. These are roughly broken up in the normal documentation and more advanced topics. ",
-    "url": "/pages/documentation/",
-    
-    "relUrl": "/pages/documentation/"
-  },"25": {
-    "doc": "Advanced Documentation",
-    "title": "Advanced Documentation",
-    "content": " ",
-    "url": "/pages/documentation/advanced_documentation/",
-    
-    "relUrl": "/pages/documentation/advanced_documentation/"
-  },"26": {
-    "doc": "Welcome to ParryBytes",
-    "title": "Welcome to ParryBytes",
-    "content": "You’re safe space on the web where cephalapods meet cybersecurity. You can find some information about me . How to get in contact . ",
+    "doc": "🐙 Welcome to ParryBytes.cloud",
+    "title": "🐙 Welcome to ParryBytes.cloud",
+    "content": "Cybersecurity, with less doom and gloom and more “Ah, I get it now!” . Dive into a space where cloud security meets clarity. At ParryBytes.cloud, we explore the depths of cybersecurity, making complex concepts accessible and engaging. ",
     "url": "/",
     
     "relUrl": "/"
+  },"25": {
+    "doc": "🐙 Welcome to ParryBytes.cloud",
+    "title": "🌊 Explore Our Depths",
+    "content": "Echoes from the Deep: Strategic insights and overarching trends in cloud security. Field Notes: Practical, real-world guidance and applied case studies. Deep Dives: In-depth technical explorations and detailed analyses. Dive Buddies: Discussions on leadership, team dynamics, and non-technical aspects. Echoes from Elsewhere: Republished professional blogs from my employer, shared with permission. ",
+    "url": "/#-explore-our-depths",
+    
+    "relUrl": "/#-explore-our-depths"
+  },"26": {
+    "doc": "🐙 Welcome to ParryBytes.cloud",
+    "title": "🧠 About Me",
+    "content": "I’m a Cloud Security Architect based in Australia, specializing in governance, risk, and compliance. My passion lies in security frameworks and Identity and Access Management. With experience spanning national and international businesses, I aim to bridge the gap between complex security concepts and practical implementation. ",
+    "url": "/#-about-me",
+    
+    "relUrl": "/#-about-me"
   },"27": {
-    "doc": "Work Blogs",
-    "title": "Blogs",
-    "content": "These are copies of blogs that I have published at my jobs. ",
-    "url": "/pages/work_blogs/work_blogs.html#blogs",
+    "doc": "🐙 Welcome to ParryBytes.cloud",
+    "title": "📬 Stay Connected",
+    "content": "Have questions or want to collaborate? Reach out via contact . | Email: scott@parrybytes.cloud | GitHub: scottjparry | LinkedIn: scottjparry | . ",
+    "url": "/#-stay-connected",
     
-    "relUrl": "/pages/work_blogs/work_blogs.html#blogs"
+    "relUrl": "/#-stay-connected"
   },"28": {
-    "doc": "Work Blogs",
-    "title": "Work Blogs",
-    "content": " ",
-    "url": "/pages/work_blogs/work_blogs.html",
+    "doc": "🐙 Welcome to ParryBytes.cloud",
+    "title": "Why the animal theme?",
+    "content": "I chose animal themes—particularly oceanic ones like the cuttlefish—because they reflect the nature of cybersecurity work: adaptive, intelligent, and often operating in the unseen depths. The ocean is vast and complex, just like the cloud. Plus, let’s be honest—security blogs are more fun with tentacles. ",
+    "url": "/#why-the-animal-theme",
     
-    "relUrl": "/pages/work_blogs/work_blogs.html"
+    "relUrl": "/#why-the-animal-theme"
+  },"29": {
+    "doc": "🌀 Echoes From Elsewhere",
+    "title": "🌀 Echoes from Elsewhere",
+    "content": "Thoughts that began in other currents. Content originally written for the day job or external engagements, shared here with context and colour. Sometimes edited, sometimes annotated, always aligned to the ParryBytes voice. If it’s here, it’s worth the rerun. ",
+    "url": "/pages/Echoes_From_Elsewhere/#-echoes-from-elsewhere",
+    
+    "relUrl": "/pages/Echoes_From_Elsewhere/#-echoes-from-elsewhere"
+  },"30": {
+    "doc": "🌀 Echoes From Elsewhere",
+    "title": "🌀 Echoes From Elsewhere",
+    "content": " ",
+    "url": "/pages/Echoes_From_Elsewhere/",
+    
+    "relUrl": "/pages/Echoes_From_Elsewhere/"
+  },"31": {
+    "doc": "🤿 Dive Buddies",
+    "title": "🤿 Dive Buddies",
+    "content": "Reflections with your fins-on-the-ground crew. This is where we surface from the tech for a bit. Expect posts about working in security teams, leading without managing, navigating neurodiversity in consulting, and finding your rhythm in high-performance environments. Less configs, more conversations. ",
+    "url": "/pages/Dive_Buddies/",
+    
+    "relUrl": "/pages/Dive_Buddies/"
+  },"32": {
+    "doc": "🐠 Snorkelling",
+    "title": "🐠 Snorkelling",
+    "content": "Exploring the reef, just below the surface. These posts skim across a variety of security topics—enough depth to inform and intrigue, but without needing to decompress afterward. Think overviews, how-tos, quick wins, and curated explorations that let you see the colourful coral of cloud security without . ",
+    "url": "/pages/Snorkelling/",
+    
+    "relUrl": "/pages/Snorkelling/"
+  },"33": {
+    "doc": "🧠 Deep Dives",
+    "title": "🧠 Deep Dives",
+    "content": "Tentacle-level technical analysis. For those who like getting elbow-deep in policy settings, identity flows, and security configurations. These are unapologetically detailed posts built for practitioners—think of them as the decompression chamber for engineers who want substance over fluff. ",
+    "url": "/pages/Deep_Dives/",
+    
+    "relUrl": "/pages/Deep_Dives/"
+  },"34": {
+    "doc": "🌊 Echoes From The Deep",
+    "title": "🌊 Echoes from the Deep",
+    "content": "Where the tide turns in strategy and insight. These posts dive into the broader ocean currents shaping cloud security—from evolving threat landscapes to governance frameworks, digital trust, and executive-aligned decision-making. If you’re after the “what’s coming next?” or need to frame your security uplift in a boardroom-friendly way, this is your sonar. ",
+    "url": "/pages/Echoes_From_The_Deep/#-echoes-from-the-deep",
+    
+    "relUrl": "/pages/Echoes_From_The_Deep/#-echoes-from-the-deep"
+  },"35": {
+    "doc": "🌊 Echoes From The Deep",
+    "title": "🌊 Echoes From The Deep",
+    "content": " ",
+    "url": "/pages/Echoes_From_The_Deep/",
+    
+    "relUrl": "/pages/Echoes_From_The_Deep/"
   }
 }

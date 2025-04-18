@@ -3,7 +3,7 @@ title: "Transitioning from System Engineer to IT Consultant: Leveraging Your Exi
 canonical_url: "https://arinco.com.au/blog/from-system-engineer-to-azure-consultant/"
 layout: home
 has_children: true
-parent: "Work Blogs" 
+parent: "🌀 Echoes From Elsewhere" 
 last_modified_date: 2024-10-09
 ---
 **Originally published for Arinco**

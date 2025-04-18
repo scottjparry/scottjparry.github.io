@@ -19,11 +19,11 @@ Yes...you just got compared to a cephalapod! In a good way I promise...
 # What makes me tick?
 
 I've got my tentacles dipped into several digital ponds
-- I wrestling with Microsoft Azure until it behaves
+- I wrestele with Microsoft Azure until it behaves
 - I fortify Microsoft 365 environments (but still keep them usable)
 - I make sense (or try to) of cybersecurity frameworks and get rid of the headaches
 - I build cloud security solutions that work in the real world and not just the ivory tower.
-- Musing on technical leadership and what that actually means.
+- I muse on technical leadership and what that actually means.
 
 # Why am I writing
 

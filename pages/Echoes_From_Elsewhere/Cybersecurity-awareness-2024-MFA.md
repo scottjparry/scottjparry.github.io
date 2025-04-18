@@ -3,7 +3,7 @@ title: "Elevate Your Password Security: A Cybersecurity Awareness Month Special"
 layout: home
 canonical_url: "https://arinco.com.au/blog/elevate-your-password-security/"
 has_children: true
-parent: "Work Blogs" 
+parent: "🌀 Echoes From Elsewhere" 
 last_modified_date: 2024-10-19
 has_toc: true
 ---
