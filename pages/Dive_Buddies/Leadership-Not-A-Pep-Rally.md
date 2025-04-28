@@ -30,7 +30,7 @@ And then there’s people like me:
 - Calmly skeptical because, well, we’ve seen things
 - More "let's execute well" than "let's all feel amazing while burning down scope"
 
-<img src="/assets/blog-images/The-Realistic-Leader.png" alt="The Realistic Leader" width="600">
+<img src="/assets/blog-images/The-Realistic-Leader.png" alt="The Realistic Leader" width="400">
 
 
 Here’s the truth: both approaches can work. But one of them tends to survive real-world IT projects with fewer therapy bills.
