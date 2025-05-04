@@ -7,6 +7,9 @@
 <loc>http://localhost:4000/pages/Snorkelling/GettingStarted-1.html</loc>
 </url>
 <url>
+<loc>http://localhost:4000/pages/Dive_Buddies/Leadership-Not-A-Pep-Rally.html</loc>
+</url>
+<url>
 <loc>http://localhost:4000/pages/Echoes_From_Elsewhere/System-Engineer-Consultant.html</loc>
 </url>
 <url>
@@ -35,5 +38,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/pages/Echoes_From_The_Deep/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/pages/Snorkelling/test.html</loc>
 </url>
 </urlset>

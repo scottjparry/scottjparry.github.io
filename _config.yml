@@ -56,3 +56,8 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 
 logo: "/assets/images/cuttlefish-Logo.png"
 favicon_ico: "/assets/images/favicon-32x32.png"
+
+include:
+  - _includes/head_custom.html
+  - assets/css/velvet.css
+  - assets/js/velvet.js
