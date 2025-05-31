@@ -1,0 +1,675 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.27.1 by Michael Rose
+  Copyright 2013-2025 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Transitioning from System Engineer to IT Consultant: Leveraging Your Existing Skills - Parrybytes</title>
+<meta name="description" content="Originally published for Arinco">
+
+
+  <meta name="author" content="Scott Parry">
+  
+  <meta property="article:author" content="Scott Parry">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Parrybytes">
+<meta property="og:title" content="Transitioning from System Engineer to IT Consultant: Leveraging Your Existing Skills">
+<meta property="og:url" content="https://arinco.com.au/blog/from-system-engineer-to-azure-consultant/">
+
+
+  <meta property="og:description" content="Originally published for Arinco">
+
+
+
+
+
+
+
+  <meta property="article:published_time" content="2024-10-09T00:00:00+11:00">
+
+
+
+
+
+
+<link rel="canonical" href="https://arinco.com.au/blog/from-system-engineer-to-azure-consultant/">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Parrybytes Feed">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single" dir="ltr">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/assets/images/cuttlefish-Logo.png" alt="Parrybytes"></a>
+        
+        <a class="site-title" href="/">
+          Parrybytes
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a
+                href="/"
+                
+                
+              >Home</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/year-archive/"
+                
+                
+              >Post archive</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/categories/"
+                
+                
+              >Categories</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/tags/"
+                
+                
+              >Tags</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/contact/"
+                
+                
+              >Contact</a>
+            </li><li class="masthead__menu-item">
+              <a
+                href="/about/"
+                
+                
+              >About</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person" class="h-card">
+
+  
+    <div class="author__avatar">
+      <a href="http://localhost:4000/">
+        <img src="/assets/images/Bio/Scott.png" alt="Scott Parry" itemprop="image" class="u-photo">
+      </a>
+    </div>
+  
+
+  <div class="author__content">
+    <h3 class="author__name p-name" itemprop="name">
+      <a class="u-url" rel="me" href="http://localhost:4000/" itemprop="url">Scott Parry</a>
+    </h3>
+    
+      <div class="author__bio p-note" itemprop="description">
+        <p>I make compliance useful, not ornamental. Your auditors will love it. Your engineers might even respect it.</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+
+      
+        
+          
+            <li><a href="mailto:scott@parrybytes.cloud" rel="nofollow noopener noreferrer me"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span></a></li>
+          
+        
+          
+            <li><a href="https://parrybytes.com" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fas fa-fw fa-link" aria-hidden="true"></i><span class="label">Website</span></a></li>
+          
+        
+          
+            <li><a href="https://linkedin.com/in/scottjparry" rel="nofollow noopener noreferrer me" itemprop="sameAs"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">LinkedIn</span></a></li>
+          
+        
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Transitioning from System Engineer to IT Consultant: Leveraging Your Existing Skills">
+    <meta itemprop="description" content="Originally published for Arinco">
+    <meta itemprop="datePublished" content="2024-10-09T00:00:00+11:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">
+            <a href="http://localhost:4000/echoes%20from%20elsewhere/dive%20buddies/2024/10/09/System-Engineer-to-IT-Consultant.html" itemprop="url">Transitioning from System Engineer to IT Consultant: Leveraging Your Existing Skills
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          3 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> On this page</h4></header>
+              <ul class="toc__menu"><li><a href="#transitioning-from-system-engineer-to-it-consultant-leveraging-your-existing-skills">Transitioning from System Engineer to IT Consultant: Leveraging Your Existing Skills</a><ul><li><a href="#1-trust-your-technology-skills">1. Trust Your Technology Skills</a></li><li><a href="#2-focus-on-business-skills-including-presentations">2. Focus on Business Skills, Including Presentations</a></li><li><a href="#3-expectation-management">3. Expectation Management</a></li><li><a href="#4-understand-the-why">4. Understand the “Why”</a></li><li><a href="#5-realize-youve-already-been-consulting">5. Realize You’ve Already Been Consulting</a></li><li><a href="#conclusion">Conclusion</a></li></ul></li></ul>
+            </nav>
+          </aside>
+        
+        <p><strong>Originally published for Arinco</strong></p>
+
+<h1 id="transitioning-from-system-engineer-to-it-consultant-leveraging-your-existing-skills">Transitioning from System Engineer to IT Consultant: Leveraging Your Existing Skills</h1>
+
+<p>Are you a seasoned systems engineer looking to make the leap into the world of IT consulting? Are you worried that you are too much of a generalist to become a specialist? It can be a daunting prospect, but know that it can also be a rewarding transition. You can leverage your existing skills and propel your career to new heights. We will explore five key themes that I came across while making the transition.</p>
+
+<p><img src="/assets/blog-images/System-Engineer-Image1.png" alt="The System Engineer" width="600" /></p>
+
+<h2 id="1-trust-your-technology-skills">1. Trust Your Technology Skills</h2>
+
+<p>As a system engineer, you’ve spent years in the trenches mastering various technologies, troubleshooting complex issues, and architecting solutions. Don’t underestimate the value of your technical expertise. In the world of IT consulting, clients seek professionals who can provide expert guidance on technology-related matters. Your broad and deep knowledge in this area is a valuable asset that will set you apart from the competition. If you have kept your skills up to date to support your employer you can keep up to date with the latest industry trends and advancements to support your future customers.</p>
+
+<h2 id="2-focus-on-business-skills-including-presentations">2. Focus on Business Skills, Including Presentations</h2>
+
+<p>While your technical skills are essential a successful IT consultant also possesses strong business acumen. Learning to speak the language of your clients is essential, whether that is honing your communication, negotiation or project management skills. Effective presentation skills are also particularly crucial as they enable you to clearly convey complex technical information to non-technical stakeholders. You should invest time in improving your ability to articulate your ideas, proposals and solutions.</p>
+
+<h2 id="3-expectation-management">3. Expectation Management</h2>
+
+<p>In the consulting world, managing expectations is paramount. You have to be transparent and realistic when discussion project timelines, deliverables and potential challenges with clients. Making sure you set accurate expectations from the beginning will help to build trust and prevent misunderstandings down the road. Effective expectation management is a key element of successful client relationships. This may seem daunting, but you have likely been doing this for internal projects already.</p>
+
+<p><img src="/assets/blog-images/System-Engineer-Image2.png" alt="Expectation Management" width="600" /></p>
+
+<h2 id="4-understand-the-why">4. Understand the “Why”</h2>
+
+<p>Being a good IT consultant must go beyond the technical problem-solving. You need to take the time to understand the underlying business goals and objectives your client is trying to meet. Your technical solution should align with their strategic vision. If you can move beyond problem-solving and also help the client meet their business objectives, you become a trusted partner rather than just a service provider.</p>
+
+<h2 id="5-realize-youve-already-been-consulting">5. Realize You’ve Already Been Consulting</h2>
+
+<p>While you have likely never officially held the title of “consultant,” if you are employed as a systems engineer, you’ve most likely provided consulting-like services to internal teams or clients. Reflect on your past experiences where you have offered guidance, made recommendations for solutions, or helped others to solve a problem. These instances all demonstrate the same abilities that consultants use, even if it was informal. Recognizing your existing experience in consulting can boost your confidence when you make the transition. It definitely helped me!</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Transitioning from a systems engineer to an IT consultant is an exciting journey that allows you to leverage your existing skills while greatly expanding your horizons. Trust in your technical expertise, continue to develop your business skills, master expectation management, understand the “why” behind the solution, and realize you’ve already been consulting. With the five key themes in mind, embrace your new role as an IT consultant with confidence and enthusiasm. Your own unique combination of technical skills and consulting mindset will undoubtedly lead to a successful and fulfilling career in IT consulting. If this sounds like something that interests you maybe you would like to <a href="https://arinco.com.au/join-the-crew/">Join The Crew - Arinco</a></p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#dive-buddies" class="page__taxonomy-item p-category" rel="tag">Dive Buddies</a><span class="sep">, </span>
+    
+      <a href="/categories/#echoes-from-elsewhere" class="page__taxonomy-item p-category" rel="tag">Echoes From Elsewhere</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2024-10-09T00:00:00+11:00">October 9, 2024</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  <h4 class="page__share-title">Share on</h4>
+
+  <a href="https://x.com/intent/tweet?text=Transitioning+from+System+Engineer+to+IT+Consultant%3A+Leveraging+Your+Existing+Skills%20http%3A%2F%2Flocalhost%3A4000%2Fechoes%2520from%2520elsewhere%2Fdive%2520buddies%2F2024%2F10%2F09%2FSystem-Engineer-to-IT-Consultant.html" class="btn btn--x" aria-label="Share on X" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on X">
+    <i class="fab fa-fw fa-x-twitter" aria-hidden="true"></i><span> X</span>
+  </a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2Fechoes%2520from%2520elsewhere%2Fdive%2520buddies%2F2024%2F10%2F09%2FSystem-Engineer-to-IT-Consultant.html" class="btn btn--facebook" aria-label="Share on Facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook">
+    <i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span>
+  </a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/echoes%20from%20elsewhere/dive%20buddies/2024/10/09/System-Engineer-to-IT-Consultant.html" class="btn btn--linkedin" aria-label="Share on LinkedIn" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn">
+    <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
+  </a>
+
+  <a href="https://bsky.app/intent/compose?text=Transitioning+from+System+Engineer+to+IT+Consultant%3A+Leveraging+Your+Existing+Skills%20http%3A%2F%2Flocalhost%3A4000%2Fechoes%2520from%2520elsewhere%2Fdive%2520buddies%2F2024%2F10%2F09%2FSystem-Engineer-to-IT-Consultant.html" class="btn btn--bluesky" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Bluesky">
+    <i class="fab fa-fw fa-bluesky" aria-hidden="true"></i><span> Bluesky</span>
+  </a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="#" class="pagination--pager disabled">Previous</a>
+    
+    
+      <a href="/echoes%20from%20elsewhere/2024/10/19/Elevate-your-password.html" class="pagination--pager" title="Elevate Your Password">Next</a>
+    
+  </nav>
+
+
+    </div>
+
+    
+  </article>
+
+  
+  
+    
+<div class="page__related">
+  
+  <h2 class="page__related-title">You May Also Enjoy</h2>
+  <div class="grid__wrapper">
+    
+      
+      
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/2025/04/28/Leadership-Isnt-Always-A-Pep-Rally.html" rel="permalink">Leadership Isn’t Always a Pep Rally: Sometimes It’s Just Good Process
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          2 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Leadership Isn’t Always a Pep Rally: Sometimes It’s Just Good Process
+
+</p>
+  </article>
+</div>
+
+    
+      
+      
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/snorkelling/2025/04/18/Getting-Started-with-Microsoft-Cloud-Security.html" rel="permalink">Snorkelling: Getting Started with Microsoft Cloud Security
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          1 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">🐠 Snorkelling: Getting Started with Microsoft Cloud Security
+
+</p>
+  </article>
+</div>
+
+    
+      
+      
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/snorkelling/post-types/2025/04/15/Snorkelling.html" rel="permalink">Snorkelling
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          less than 1 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">Exploring the digital reef, just below the surface.
+</p>
+  </article>
+</div>
+
+    
+      
+      
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/echoes%20from%20the%20deep/2025/04/15/Echoes-From-The-Deep.html" rel="permalink">Echoes From The Deep
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          less than 1 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">🪸 Echoes from the Deep
+
+</p>
+  </article>
+</div>
+
+    
+  </div>
+</div>
+
+  
+  
+</div>
+
+      
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';" role="search">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+      
+        
+          <li><a href="https://github.com/scottjparry" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+        
+          <li><a href="https://linkedin.com/in/scottjparry" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2025 <a href="http://localhost:4000">Parrybytes</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+
+
+  </body>
+</html>

@@ -1,19 +1,19 @@
 ---
-layout: home
-nav_order: 1
+layout: single
+permalink: /
 ---
 
-# 🐙 Welcome to ParryBytes.cloud
+🐙 Welcome to ParryBytes.cloud
 
-**Cybersecurity, with less doom and gloom and more “Ah, I get it now!”**
+Cybersecurity, with less doom and gloom and more “Ah, I get it now!” ~ Scott Parry
 
 Dive into a space where cloud security meets clarity. At ParryBytes.cloud, we explore the depths of cybersecurity, making complex concepts accessible and engaging.
 
 # 🌊 Explore Our Depths
 
-[Echoes from the Deep](./pages/Echoes_From_The_Deep): Strategic insights and overarching trends in cloud security.
+[Echoes from the Deep](https://parrybytes.cloud/categories/#snorkelling): Strategic insights and overarching trends in cloud security.
 
-[Snorkelling](./pages/Snorkelling/): Practical, real-world guidance and applied case studies.
+[Snorkelling]((https://parrybytes.cloud/categories/#snorkelling)): Practical, real-world guidance and applied case studies.
 
 [Deep Dives](./pages/Deep_Dives/): In-depth technical explorations and detailed analyses.
 
@@ -34,4 +34,4 @@ Have questions or want to collaborate? Reach out via [contact](/contact/)
 
 # Why the animal theme?
 
-I chose animal themes—particularly oceanic ones like the cuttlefish—because they reflect the nature of cybersecurity work: adaptive, intelligent, and often operating in the unseen depths. The ocean is vast and complex, just like the cloud. Plus, let’s be honest—security blogs are more fun with tentacles.
+I chose animal themes — particularly oceanic ones like the cuttlefish — because they reflect the nature of cybersecurity work: adaptive, intelligent, and often operating in the unseen depths. The ocean is vast and complex, just like the cloud. Plus, let’s be honest — security blogs are more fun with tentacles.

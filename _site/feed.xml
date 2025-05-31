@@ -1,1 +1,243 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-05-04T16:04:52+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Parrybytes</title><subtitle>Cybersecurity, with less doom and gloom and more &quot;Ah, I get it now!&quot;</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-05-31T13:43:15+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Parrybytes</title><subtitle>Cybersecurity, with less doom and gloom and more &apos;Ah, I get it now!&apos;</subtitle><author><name>Scott Parry</name><email>[{&quot;label&quot; =&gt; &quot;Email&quot;, &quot;icon&quot; =&gt; &quot;fas fa-fw fa-envelope-square&quot;, &quot;url&quot; =&gt; &quot;mailto:scott@parrybytes.cloud&quot;}, {&quot;label&quot; =&gt; &quot;Website&quot;, &quot;icon&quot; =&gt; &quot;fas fa-fw fa-link&quot;, &quot;url&quot; =&gt; &quot;https://parrybytes.com&quot;}, {&quot;label&quot; =&gt; &quot;LinkedIn&quot;, &quot;icon&quot; =&gt; &quot;fab fa-fw fa-linkedin&quot;, &quot;url&quot; =&gt; &quot;https://linkedin.com/in/scottjparry&quot;}]</email></author><entry><title type="html">Leadership Isn’t Always a Pep Rally: Sometimes It’s Just Good Process</title><link href="http://localhost:4000/2025/04/28/Leadership-Isnt-Always-A-Pep-Rally.html" rel="alternate" type="text/html" title="Leadership Isn’t Always a Pep Rally: Sometimes It’s Just Good Process" /><published>2025-04-28T00:00:00+10:00</published><updated>2025-04-28T00:00:00+10:00</updated><id>http://localhost:4000/2025/04/28/Leadership-Isnt-Always-A-Pep-Rally</id><content type="html" xml:base="http://localhost:4000/2025/04/28/Leadership-Isnt-Always-A-Pep-Rally.html"><![CDATA[<p>Leadership Isn’t Always a Pep Rally: Sometimes It’s Just Good Process</p>
+
+<p>By Someone Who’s Not Here to Sell You Positivity Kool-Aid</p>
+
+<p>When people talk about “leadership” in tech (and especially in IT project work), the conversation often splits into two camps.</p>
+
+<p>There’s the Chipper Brigade:</p>
+
+<ul>
+  <li>Always smiling</li>
+  <li>Always upbeat</li>
+  <li>Always talking about “synergy” and “transformational journeys”</li>
+  <li>Probably has a spreadsheet color-coded by the phases of the moon</li>
+</ul>
+
+<p>And then there’s people like me:</p>
+
+<ul>
+  <li>Direct, measured</li>
+  <li>Focused on the outcome, not the parade</li>
+  <li>Calmly skeptical because, well, we’ve seen things</li>
+  <li>More “let’s execute well” than “let’s all feel amazing while burning down scope”</li>
+</ul>
+
+<p><img src="/assets/blog-images/The-Realistic-Leader.png" alt="The Realistic Leader" width="400" /></p>
+
+<p>Here’s the truth: both approaches can work. But one of them tends to survive real-world IT projects with fewer therapy bills.</p>
+
+<h2 id="leadership-without-the-pom-poms">Leadership, Without the Pom-Poms</h2>
+<p>Thanks to a slightly unusual combination of strengths (Gallup’s Deliberative, Responsibility, Relator, Analytical, Learner, and a healthy dash of Command), and a neurodivergent brain wired for pattern detection, I approach leadership a little differently:</p>
+
+<ul>
+  <li>
+    <p><strong>I don’t pretend problems aren’t there.</strong>
+Leadership isn’t about ignoring risk. It’s about managing it deliberately, responsibly, with eyes wide open.</p>
+  </li>
+  <li>
+    <p><strong>I don’t need everyone to “feel amazing” all the time.</strong>
+I need everyone to know what their job is, have the support to do it, and be able to escalate real issues without fear of being told to “just stay positive.”</p>
+  </li>
+  <li>
+    <p><strong>I’m not obsessed with being the loudest voice in the room.</strong>
+I’m obsessed with the signal-to-noise ratio. Good leadership is making sure communication cuts through cleanly, not making everyone louder.</p>
+  </li>
+</ul>
+
+<p>In short, I’m not the glass-half-full leader, nor the glass-half-empty one. I’m the “who’s in charge of topping up the glass?” leader. It’s the difference between optimism and operational reality.</p>
+
+<h2 id="most-it-projects-are-simple--if-you-manage-the-process">Most IT Projects Are Simple — If You Manage the Process</h2>
+<p>Here’s the dirty little secret of most IT projects, especially in cloud and security:</p>
+
+<ul>
+  <li>
+    <p><strong>The technology is not the hard part.</strong>
+Vendors (and engineers) like to act like it is because it makes them feel important, but if you can read and click a mouse, most modern platforms are straightforward (after the 15th acronym, anyway).</p>
+  </li>
+  <li>
+    <p><strong>Managing change is the hard part.</strong>
+People. Expectations. Timelines. The process around change. Communication. Handling resistance without letting it fester into sabotage. That’s where projects live or die.</p>
+  </li>
+  <li>
+    <p><strong>Communication is not the same as cheerleading.</strong>
+Communication is making sure people know what’s happening, when, why it matters to them, and what to expect next. It’s setting clear expectations, not inflating them with empty positivity.</p>
+  </li>
+</ul>
+
+<p>So when I “lead,” it’s not with relentless smiles or rah-rah speeches. It’s with deliberate planning, direct communication, and ruthless clarity on what matters. That’s what builds trust. That’s what drives outcomes. That’s what gets projects done.</p>
+
+<h2 id="the-velvet-hammer-approach">The Velvet Hammer Approach</h2>
+<p>I’ve been described as a “velvet hammer” — direct but not cruel, firm but fair, outcomes-focused without trampling people.</p>
+
+<p><strong>That’s leadership too.</strong>
+It just looks less like a TED talk and more like an architect quietly pointing out where the foundation needs to be reinforced before the house collapses.</p>
+
+<p>And honestly?</p>
+
+<p>In IT (and especially in security), I’d rather be the architect than the hype man.</p>]]></content><author><name>The Velvet Hammer</name></author><summary type="html"><![CDATA[Leadership Isn’t Always a Pep Rally: Sometimes It’s Just Good Process]]></summary></entry><entry><title type="html">Snorkelling: Getting Started with Microsoft Cloud Security</title><link href="http://localhost:4000/snorkelling/2025/04/18/Getting-Started-with-Microsoft-Cloud-Security.html" rel="alternate" type="text/html" title="Snorkelling: Getting Started with Microsoft Cloud Security" /><published>2025-04-18T00:00:00+10:00</published><updated>2025-04-18T00:00:00+10:00</updated><id>http://localhost:4000/snorkelling/2025/04/18/Getting-Started-with-Microsoft-Cloud-Security</id><content type="html" xml:base="http://localhost:4000/snorkelling/2025/04/18/Getting-Started-with-Microsoft-Cloud-Security.html"><![CDATA[<p>🐠 Snorkelling: Getting Started with Microsoft Cloud Security</p>
+
+<p><strong>Welcome to the reef. It’s bright, busy, and occasionally bites.</strong></p>
+
+<p>If you’ve ever looked at Microsoft’s cloud security stack and felt overwhelmed—relax. You don’t need a million certs, a rack of gear, or clearance from ASIO. What you <em>do</em> need are a few essential tools, a healthy dose of curiosity, and the philosophical fortitude of one very strange animal.</p>
+
+<p>Let’s begin.</p>
+
+<h2 id="-1-a-laptop-not-fancy-just-functional">🧰 1. A Laptop (Not Fancy, Just Functional)</h2>
+
+<p>You don’t need a 96-core monster with RGB lighting and a GPU capable of rendering Middle-earth. A solid laptop with a modern browser, a decent CPU, and a willingness to multitask is more than enough.</p>
+
+<h2 id="-2-documentation-the-microsoft-kind">📚 2. Documentation (The Microsoft Kind)</h2>
+
+<p>Your new best friend is the <a href="https://learn.microsoft.com/en-us/training/">Microsoft Learn</a> platform. Bookmark the docs for Defender for Cloud, Entra ID, Intune, and the Security Compliance toolkit.</p>
+
+<h2 id="-3-vs-code-or-something-equally-sassy">💻 3. VS Code (or Something Equally Sassy)</h2>
+
+<p>You’ll be scripting policies, writing JSON, and poking Graph API with a stick. Visual Studio Code is your lightweight Swiss Army knife. Install extensions for:</p>
+<ul>
+  <li>Azure Resource Manager (ARM)</li>
+  <li>Bicep</li>
+  <li>PowerShell</li>
+  <li>Markdown</li>
+</ul>
+
+<p>Bonus: add GitHub integration.</p>
+
+<h2 id="-4-an-insatiable-need-to-know-activate-your-inner-platypus">🦆 4. An Insatiable Need to Know (Activate Your Inner Platypus)</h2>
+
+<p>You’ll need one key trait to thrive in Microsoft Cloud Security: <strong>curiosity</strong>. Channel your inner <strong>platypus</strong>—a creature that lays eggs, senses electromagnetic fields, and has venom.</p>
+
+<p><img src="/assets/images/Platypus-1.png" alt="The inquisitive platypus" width="300" /></p>
+
+<p>It’s weird, underestimated, and perfectly adapted to thrive where few others can.<br />
+So should you be.</p>
+
+<hr />
+
+<h3 id="-coming-up-next-in-snorkelling">🐙 Coming Up Next in Snorkelling:</h3>
+<ul>
+  <li>“The Portal Tour: What the Hell is Where?”</li>
+  <li>“M365 vs Azure Security: Why Are There Two of Everything?”</li>
+  <li>“Conditional Access for Humans (Not Robots)”</li>
+</ul>
+
+<p>Until then, snorkel up, curiosity on. The reef’s only going to get weirder from here.</p>]]></content><author><name>Scott Parry</name></author><category term="[&quot;Snorkelling&quot;]" /><category term="cloud-security" /><category term="microsoft" /><category term="beginner" /><category term="snorkelling" /><category term="parrybytes" /><summary type="html"><![CDATA[🐠 Snorkelling: Getting Started with Microsoft Cloud Security]]></summary></entry><entry><title type="html">Snorkelling</title><link href="http://localhost:4000/snorkelling/post-types/2025/04/15/Snorkelling.html" rel="alternate" type="text/html" title="Snorkelling" /><published>2025-04-15T00:00:00+10:00</published><updated>2025-04-15T00:00:00+10:00</updated><id>http://localhost:4000/snorkelling/post-types/2025/04/15/Snorkelling</id><content type="html" xml:base="http://localhost:4000/snorkelling/post-types/2025/04/15/Snorkelling.html"><![CDATA[<p>🥽 Snorkelling</p>
+
+<p>Let’s face it—most cloud security advice either assumes a unicorn budget or requires psychic powers to decipher vague “zero trust principles.” Snorkelling is my antidote to that. These posts live close to the surface, where delivery meets reality. They’re grounded in real-world engagements, lessons from actual tenants, and yes, the odd bruised ego (mostly mine).</p>
+
+<p>Whether you’re tuning a Conditional Access policy mid-incident or explaining to someone why MFA fatigue is a thing and not a vibe, you’ll find practical value here. The waters are clear, the advice is usable, and the sarcasm is carefully pH balanced.</p>]]></content><author><name>Scott Parry</name></author><category term="snorkelling" /><category term="post-types" /><category term="practical-guide" /><category term="case-study" /><category term="how-to" /><category term="real-world" /><summary type="html"><![CDATA[Exploring the digital reef, just below the surface.]]></summary></entry><entry><title type="html">Echoes From Elsewhere</title><link href="http://localhost:4000/echoes%20from%20elsewhere/post-types/2025/04/15/Echoes-From-Elsewhere.html" rel="alternate" type="text/html" title="Echoes From Elsewhere" /><published>2025-04-15T00:00:00+10:00</published><updated>2025-04-15T00:00:00+10:00</updated><id>http://localhost:4000/echoes%20from%20elsewhere/post-types/2025/04/15/Echoes-From-Elsewhere</id><content type="html" xml:base="http://localhost:4000/echoes%20from%20elsewhere/post-types/2025/04/15/Echoes-From-Elsewhere.html"><![CDATA[<p>🌊 Echoes from Elsewhere</p>
+
+<p>Republished professional blogs from my employer, shared with permission.
+Some of my most thoughtful work is created as part of my role with clients and teams across the industry. Echoes from Elsewhere is a space to thoughtfully reshare selected professional blogs originally published through my employer—reproduced here with full permission and attribution.
+These posts reflect the same voice and perspective you’ll find across the rest of the blog, focused on delivering practical insights, strategic thinking, and clarity around cloud security. Whether you’re discovering them here for the first time or revisiting with fresh eyes, the aim remains the same: actionable value for security architects, technologists, and leaders.</p>]]></content><author><name>Scott Parry</name></author><category term="[&quot;Echoes From Elsewhere&quot;, &quot;post-types&quot;]" /><category term="Echoes From Elsewhere" /><summary type="html"><![CDATA[🌊 Echoes from Elsewhere]]></summary></entry><entry><title type="html">Deep Dives</title><link href="http://localhost:4000/deep%20dives/post-types/2025/04/15/Deep-Dives.html" rel="alternate" type="text/html" title="Deep Dives" /><published>2025-04-15T00:00:00+10:00</published><updated>2025-04-15T00:00:00+10:00</updated><id>http://localhost:4000/deep%20dives/post-types/2025/04/15/Deep-Dives</id><content type="html" xml:base="http://localhost:4000/deep%20dives/post-types/2025/04/15/Deep-Dives.html"><![CDATA[<p>🦑 Deep Dives</p>
+
+<p>This is where we put on the tech tanks and descend into the murky brilliance of cloud architecture. Deep Dives covers the gnarlier bits: config drift detection, Entra ID internals, Defender for Cloud patterns, and the kind of PowerShell sorcery that makes auditors cry tears of joy (or fear—it’s a fine line).</p>
+
+<p>Expect high signal, low fluff, and no apologies for going long. If it’s technical debt you’re trying to untangle, or a design decision you’re ready to make with eyes open, this is where we get into the weeds—well, kelp forests, really.</p>]]></content><author><name>Scott Parry</name></author><category term="[&quot;Deep Dives&quot;, &quot;post-types&quot;]" /><category term="Deep Dives" /><summary type="html"><![CDATA[🦑 Deep Dives]]></summary></entry><entry><title type="html">Dive Buddies</title><link href="http://localhost:4000/dive%20buddies/post-types/2025/04/15/Dive-Buddies.html" rel="alternate" type="text/html" title="Dive Buddies" /><published>2025-04-15T00:00:00+10:00</published><updated>2025-04-15T00:00:00+10:00</updated><id>http://localhost:4000/dive%20buddies/post-types/2025/04/15/Dive-Buddies</id><content type="html" xml:base="http://localhost:4000/dive%20buddies/post-types/2025/04/15/Dive-Buddies.html"><![CDATA[<p>🤿 Dive Buddies</p>
+
+<p>Security is a team sport, even if half the team thinks PowerPoint is a deployment tool. Dive Buddies is where I talk about the human side of working in tech: leadership without management, mentoring juniors (or jaded seniors), building trust with stakeholders, and navigating the emotional tax of being the voice of caution in a go-fast culture.</p>
+
+<p>I don’t pretend to have all the answers—but I do believe that good culture beats good tooling, every time. These are posts for those who carry both a runbook and a coffee for someone else.</p>]]></content><author><name>Scott Parry</name></author><category term="[&quot;Dive Buddies&quot;, &quot;post-types&quot;]" /><category term="Dive Buddies" /><summary type="html"><![CDATA[🤿 Dive Buddies]]></summary></entry><entry><title type="html">Echoes From The Deep</title><link href="http://localhost:4000/echoes%20from%20the%20deep/2025/04/15/Echoes-From-The-Deep.html" rel="alternate" type="text/html" title="Echoes From The Deep" /><published>2025-04-15T00:00:00+10:00</published><updated>2025-04-15T00:00:00+10:00</updated><id>http://localhost:4000/echoes%20from%20the%20deep/2025/04/15/Echoes-From-The-Deep</id><content type="html" xml:base="http://localhost:4000/echoes%20from%20the%20deep/2025/04/15/Echoes-From-The-Deep.html"><![CDATA[<p>🪸 Echoes from the Deep</p>
+
+<p>Cloud security doesn’t exist in a vacuum—though sometimes it feels like we’re screaming into one. Echoes from the Deep is where I step back from the console and look at the horizon. These posts explore strategic shifts in the industry, macro trends in risk, regulatory rumblings, and the tectonic movements shaping how cloud security is bought, built, and defended.</p>
+
+<p>Think of it as sonar for the security-conscious: mapping out what’s coming before it hits the hull. If you’re a senior architect, CISO, or anyone who needs to justify a security roadmap to people who really like Excel, this is your corner of the reef.</p>]]></content><author><name>Scott Parry</name></author><category term="[&quot;Echoes From The Deep&quot;]" /><category term="Echoes From The Deep" /><summary type="html"><![CDATA[🪸 Echoes from the Deep]]></summary></entry><entry><title type="html">Elevate Your Password</title><link href="http://localhost:4000/echoes%20from%20elsewhere/2024/10/19/Elevate-your-password.html" rel="alternate" type="text/html" title="Elevate Your Password" /><published>2024-10-19T00:00:00+11:00</published><updated>2024-10-19T00:00:00+11:00</updated><id>http://localhost:4000/echoes%20from%20elsewhere/2024/10/19/Elevate-your-password</id><content type="html" xml:base="http://localhost:4000/echoes%20from%20elsewhere/2024/10/19/Elevate-your-password.html"><![CDATA[<p><strong>Originally published for Arinco</strong></p>
+
+<h1 id="elevate-your-password-security-a-cybersecurity-awareness-month-special">Elevate Your Password Security: A Cybersecurity Awareness Month Special</h1>
+
+<p>In a digital landscape filled with potential threats, your online security hinges on the strength of your passwords. October is Cybersecurity Awareness Month, making it the perfect time to revisit your password practices and bolster your digital defences. The National Institute of Standards and Technology (NIST), a renowned authority in cybersecurity, offers a comprehensive framework for password security that is pivotal for safeguarding both organisational data and your personal online presence.</p>
+
+<h2 id="the-significance-of-strong-passwords">The Significance of Strong Passwords</h2>
+
+<p>Before we delve into the specifics of NIST’s guidelines, let’s underline the crucial role strong passwords play in the realm of cybersecurity. Passwords are your initial line of defence against unauthorised access to your accounts, personal information, and sensitive data. Weak passwords are like open doors inviting cybercriminals in, while strong passwords act as the locks that keep them out.</p>
+
+<h2 id="nists-password-guidelines-for-consumers">NIST’s Password Guidelines for Consumers</h2>
+
+<p>NIST’s Special Publication 800-63B, known as the “Digital Identity Guidelines,” furnishes a robust set of recommendations for creating and maintaining secure passwords. Here’s how you can implement these guidelines to fortify your personal online security:</p>
+
+<h3 id="1-passphrases-over-passwords">1. Passphrases Over Passwords</h3>
+
+<p>NIST emphasises the use of passphrases over conventional passwords. Passphrases, composed of multiple words or a sentence, are longer and easier to remember. For instance, “CoffeeLover$MakeGreatMornings!” is a strong passphrase that is not only secure but also user-friendly.</p>
+
+<h3 id="2-longer-is-better">2. Longer is Better</h3>
+
+<p>NIST suggests a minimum password length of 12 characters. Longer passwords offer enhanced security, as they present a more formidable challenge to attackers attempting to crack them. To boost complexity, incorporate a mix of uppercase and lowercase letters, numbers, and special characters. The concept a passphrase comes into its own when combined with this suggestion. Using your favourite sentence from a book can be a great start to a strong password.</p>
+
+<h3 id="3-avoid-common-words-and-patterns">3. Avoid Common Words and Patterns</h3>
+
+<p>Steer clear of easily guessable passwords. NIST recommends avoiding common words, phrases, and patterns like “123456,” “password,” or “qwerty,” as they are susceptible to dictionary attacks.</p>
+
+<p>This advice from NIST also applies to things like your company name, birthday, names of family members etc.</p>
+
+<h3 id="4-regular-password-updates">4. Regular Password Updates</h3>
+
+<p>NIST no longer endorses frequent password changes, which can lead to weaker passwords due to predictable patterns (e.g., “password1,” “password2,” and so on). Instead, change your password only when there is a known compromise or if you suspect unauthorised access.</p>
+
+<p>While I admit, this is the most contentious piece of advice in this article, I stand by it. If you have a sufficiently long and complex password, there is no requirement to change the password. Password strength checkers estimate the above password “CoffeeLover$MakeGreatMornings!” would take 13 centuries to crack. A string of 19 random characters with a mix of lower case, upper case, numbers and symbols would take 2 thousand trillion years.</p>
+
+<p>Microsoft Edge, Google Chrome, and Mozilla Firefox all have functionality built into their password managers to alert you to compromised passwords, as do the major password managers on the market.</p>
+
+<h3 id="5-embrace-multi-factor-authentication-mfa">5. Embrace Multi-Factor Authentication (MFA)</h3>
+
+<p>Implementing MFA is strongly encouraged. It adds an additional layer of security by requiring something you know (your password) and something you have (e.g., a mobile app or a hardware token) to access your accounts. Most major services will offer some form of MFA for accounts. And if they don’t, you should strongly consider whether you need to use the service and what kind of data of yours they are storing.</p>
+
+<h2 id="why-is-nist-guidance-relevant-to-me">Why is NIST guidance relevant to me?</h2>
+
+<p>NIST’s password security guidelines hold crucial significance, not only for organisations, but also for individual consumers, for several compelling reasons:</p>
+
+<h3 id="1-expertise-and-credibility">1. Expertise and Credibility</h3>
+
+<p>NIST is a highly respected and authoritative institution in the realm of technology and cybersecurity. Their recommendations are developed by experts who continuously analyse and adapt to the ever-evolving threat landscape.</p>
+
+<h3 id="2-real-world-testing">2. Real-World Testing</h3>
+
+<p>NIST’s guidelines are grounded in real-world security testing and research, stemming from a profound understanding of how cyberattacks occur and how to effectively counter them.</p>
+
+<h3 id="3-ongoing-updates">3. Ongoing Updates</h3>
+
+<p>NIST’s willingness to adapt its guidelines to changing circumstances ensures that their recommendations remain pertinent and effective in the face of emerging threats.</p>
+
+<h3 id="4-wide-applicability">4. Wide Applicability</h3>
+
+<p>NIST guidelines aren’t just reserved for government agencies; they are widely used by organisations and individuals around the world. This broad acceptance underscores their practicality and effectiveness.</p>
+
+<h3 id="5-personal-cyber-resilience">5. Personal Cyber Resilience</h3>
+
+<p>By adhering to NIST’s recommendations, you can significantly bolster your personal cybersecurity stance and enhance your resilience against emerging threats. NIST’s focus on secure, user-friendly practices, such as using passphrases and implementing MFA, positions it as a valuable benchmark for achieving cyber resilience as a consumer.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>In conclusion, NIST’s recommendations for password security provide a robust framework to strengthen your personal defences against the ever-evolving digital threat landscape. By adopting the latest guidance outlined in the Special Publication 800-63B, you can fortify your digital identity and maintain cyber resilience. Remember, your password is your first line of defence and NIST’s guidelines set the standard for building a secure fortress in the digital age.</p>
+
+<p>If you are concerned about creating complex passwords you can remember even with the above advice, you may want to look into passwords managers. They all come with various security features and at different price points, but you are guaranteed to find one that meets your needs.</p>]]></content><author><name>Scott Parry</name></author><category term="Echoes From Elsewhere" /><summary type="html"><![CDATA[Originally published for Arinco]]></summary></entry><entry><title type="html">Transitioning from System Engineer to IT Consultant: Leveraging Your Existing Skills</title><link href="http://localhost:4000/echoes%20from%20elsewhere/dive%20buddies/2024/10/09/System-Engineer-to-IT-Consultant.html" rel="alternate" type="text/html" title="Transitioning from System Engineer to IT Consultant: Leveraging Your Existing Skills" /><published>2024-10-09T00:00:00+11:00</published><updated>2024-10-09T00:00:00+11:00</updated><id>http://localhost:4000/echoes%20from%20elsewhere/dive%20buddies/2024/10/09/System-Engineer-to-IT-Consultant</id><content type="html" xml:base="http://localhost:4000/echoes%20from%20elsewhere/dive%20buddies/2024/10/09/System-Engineer-to-IT-Consultant.html"><![CDATA[<p><strong>Originally published for Arinco</strong></p>
+
+<h1 id="transitioning-from-system-engineer-to-it-consultant-leveraging-your-existing-skills">Transitioning from System Engineer to IT Consultant: Leveraging Your Existing Skills</h1>
+
+<p>Are you a seasoned systems engineer looking to make the leap into the world of IT consulting? Are you worried that you are too much of a generalist to become a specialist? It can be a daunting prospect, but know that it can also be a rewarding transition. You can leverage your existing skills and propel your career to new heights. We will explore five key themes that I came across while making the transition.</p>
+
+<p><img src="/assets/blog-images/System-Engineer-Image1.png" alt="The System Engineer" width="600" /></p>
+
+<h2 id="1-trust-your-technology-skills">1. Trust Your Technology Skills</h2>
+
+<p>As a system engineer, you’ve spent years in the trenches mastering various technologies, troubleshooting complex issues, and architecting solutions. Don’t underestimate the value of your technical expertise. In the world of IT consulting, clients seek professionals who can provide expert guidance on technology-related matters. Your broad and deep knowledge in this area is a valuable asset that will set you apart from the competition. If you have kept your skills up to date to support your employer you can keep up to date with the latest industry trends and advancements to support your future customers.</p>
+
+<h2 id="2-focus-on-business-skills-including-presentations">2. Focus on Business Skills, Including Presentations</h2>
+
+<p>While your technical skills are essential a successful IT consultant also possesses strong business acumen. Learning to speak the language of your clients is essential, whether that is honing your communication, negotiation or project management skills. Effective presentation skills are also particularly crucial as they enable you to clearly convey complex technical information to non-technical stakeholders. You should invest time in improving your ability to articulate your ideas, proposals and solutions.</p>
+
+<h2 id="3-expectation-management">3. Expectation Management</h2>
+
+<p>In the consulting world, managing expectations is paramount. You have to be transparent and realistic when discussion project timelines, deliverables and potential challenges with clients. Making sure you set accurate expectations from the beginning will help to build trust and prevent misunderstandings down the road. Effective expectation management is a key element of successful client relationships. This may seem daunting, but you have likely been doing this for internal projects already.</p>
+
+<p><img src="/assets/blog-images/System-Engineer-Image2.png" alt="Expectation Management" width="600" /></p>
+
+<h2 id="4-understand-the-why">4. Understand the “Why”</h2>
+
+<p>Being a good IT consultant must go beyond the technical problem-solving. You need to take the time to understand the underlying business goals and objectives your client is trying to meet. Your technical solution should align with their strategic vision. If you can move beyond problem-solving and also help the client meet their business objectives, you become a trusted partner rather than just a service provider.</p>
+
+<h2 id="5-realize-youve-already-been-consulting">5. Realize You’ve Already Been Consulting</h2>
+
+<p>While you have likely never officially held the title of “consultant,” if you are employed as a systems engineer, you’ve most likely provided consulting-like services to internal teams or clients. Reflect on your past experiences where you have offered guidance, made recommendations for solutions, or helped others to solve a problem. These instances all demonstrate the same abilities that consultants use, even if it was informal. Recognizing your existing experience in consulting can boost your confidence when you make the transition. It definitely helped me!</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Transitioning from a systems engineer to an IT consultant is an exciting journey that allows you to leverage your existing skills while greatly expanding your horizons. Trust in your technical expertise, continue to develop your business skills, master expectation management, understand the “why” behind the solution, and realize you’ve already been consulting. With the five key themes in mind, embrace your new role as an IT consultant with confidence and enthusiasm. Your own unique combination of technical skills and consulting mindset will undoubtedly lead to a successful and fulfilling career in IT consulting. If this sounds like something that interests you maybe you would like to <a href="https://arinco.com.au/join-the-crew/">Join The Crew - Arinco</a></p>]]></content><author><name>Scott Parry</name></author><category term="[&quot;Echoes From Elsewhere&quot;, &quot;Dive Buddies&quot;]" /><summary type="html"><![CDATA[Originally published for Arinco]]></summary></entry></feed>

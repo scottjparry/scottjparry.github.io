@@ -1,0 +1,18 @@
+Scott Parry:
+  name        : "Scott Parry"
+  bio         : "I make compliance useful, not ornamental. Your auditors will love it. Your engineers might even respect it."
+  avatar      : "/assets/images/Bio/Scott.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:scott@parrybytes.cloud"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://parrybytes.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/scottjparry"
+Velvet Hammer:
+  name        : "The Velvet Hammer"
+  bio         : "The Velvet Hammer doesn’t do blame—they do baselines, benchmarks, and brutal honesty. They’ve patched worse. You’re just next."
+  avatar      : "/assets/images/Bio/Velvet-Hammer.png"
