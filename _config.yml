@@ -34,9 +34,12 @@ plugins:
  - jekyll-feed
  - jekyll-sitemap
  - jekyll-seo-tag
-#  - jekyll-archives
-#  - jekyll-collections
+ - jekyll-archives
+ - jekyll-collections
  - jekyll-remote-theme
+ - jekyll-paginate
+ - jekyll-include-cache
+ - jekyll-gist
 
 social:
   linkedin: "https://www.linkedin.com/in/scottjparry" 
