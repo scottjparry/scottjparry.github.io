@@ -35,7 +35,6 @@ plugins:
  - jekyll-sitemap
  - jekyll-seo-tag
  - jekyll-archives
- - jekyll-collections
  - jekyll-remote-theme
  - jekyll-paginate
  - jekyll-include-cache

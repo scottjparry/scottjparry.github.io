@@ -20,6 +20,8 @@ I initially considered a raccoon—you know, looks permanently exhausted, always
 
 But I realized that the cuttlefish better embodies the modern cybersecurity team. They don't rely on brute force or thick armor like a saltie; they survive through intelligence and the ability to adapt to any situation… and they're kind of clever. Sound familiar?​
 
+[Image](/assets/images/Cuttlefish.jpg)
+
 Yes… you just got compared to a cephalopod! In a good way, I promise…​
 
 # What makes me tick?
