@@ -59,11 +59,12 @@ footer:
 # Footer last edited timestamp
 #last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 #last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
-
+# <img src="/assets/images/bio/Scott.png">
 # Site Author
 author:
   name             : "Scott Parry"
-  avatar           : "/assets/images/bio/Scott.png"
+  # avatar           : "/assets/images/bio/Scott.png"
+  avatar           : "<img src='/assets/images/bio/Scott.png'>"
   bio              : "I make compliance useful, not ornamental. Your auditors will love it. Your engineers might even respect it."
   location         : "Australia"
   email            :
