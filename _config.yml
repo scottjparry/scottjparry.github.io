@@ -63,7 +63,6 @@ footer:
 author:
   name             : "Scott Parry"
   avatar           : "assets/images/bio/Scott.png"
-  # avatar           : "<img src='/assets/images/bio/Scott.png'>"
   bio              : "I make compliance useful, not ornamental. Your auditors will love it. Your engineers might even respect it."
   location         : "Australia"
   email            :

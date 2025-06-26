@@ -11,15 +11,15 @@ Dive into a space where cloud security meets clarity. At ParryBytes.cloud, we ex
 
 # 🌊 Explore Our Depths
 
-[Echoes from the Deep](https://parrybytes.cloud/categories/#snorkelling): Strategic insights and overarching trends in cloud security.
+[Echoes from the Deep](https://parrybytes.cloud/categories/#echoes-from-the-deep): Strategic insights and overarching trends in cloud security.
 
-[Snorkelling]((https://parrybytes.cloud/categories/#snorkelling)): Practical, real-world guidance and applied case studies.
+[Snorkelling](https://parrybytes.cloud/categories/#snorkelling): Practical, real-world guidance and applied case studies.
 
-[Deep Dives](./pages/Deep_Dives/): In-depth technical explorations and detailed analyses.
+[Deep Dives](https://parrybytes.cloud/categories/#deep-dives): In-depth technical explorations and detailed analyses.
 
-[Dive Buddies](./pages/Dive_Buddies/): Discussions on leadership, team dynamics, and non-technical aspects.
+[Dive Buddies](https://parrybytes.cloud/categories/#dive-buddies): Discussions on leadership, team dynamics, and non-technical aspects.
 
-[Echoes from Elsewhere](./pages/Echoes_From_Elsewhere/): Republished professional blogs from my employer, shared with permission.
+[Echoes from Elsewhere](https://parrybytes.cloud/categories/#echoes-from-elsewhere): Republished professional blogs from my employer, shared with permission.
 
 # 🧠 About Me
 
