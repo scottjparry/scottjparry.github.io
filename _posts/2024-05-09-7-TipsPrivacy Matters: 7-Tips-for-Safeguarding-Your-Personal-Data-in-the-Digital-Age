@@ -1,0 +1,108 @@
+---
+title: "Privacy Matters: 7 Tips for Safeguarding Your Personal Data in the Digital Age"
+canonical_url: "https://arinco.com.au/blog/privacy-matters-7-tips-for-safeguarding-your-personal-data/"
+layout: single
+category: 
+- Echoes From Elsewhere
+Tags:
+- Cybersecurity
+- Data Protection
+- Privacy
+author: Scott Parry
+toc: true
+---
+
+**Originally published for Arinco**
+
+{:toc}
+
+# Privacy Matters: 7 Tips for Safeguarding Your Personal Data in the Digital Age
+
+- SCOTT PARRY
+
+In an age defined by digital connectivity privacy matters. From the smart phone in your pocket to your smart watch tracking your location and heartbeat, or the smart devices in your home that tell you the weather and read your morning news, personal data is constantly at risk.
+
+In 2024, while the expanse of cyberspace offers unparalleled opportunities for connectivity and sharing information, it also presents a lurking threat to your privacy and security. From inadvertent social media disclosures to cyber-attacks and data breaches, the digital landscape is littered with challenges that need a proactive approach to manage our personal privacy.
+
+In this comprehensive guide we will dive into a range of strategies and practices that individuals can adopt to enhance their personal privacy in the digital age.
+
+# Understanding Transparency and Security:
+
+Transparency and security are two pillars that underpin effective data protection strategies in the digital realm. Transparency refers to the clear and open communication of how personal data is collected, used, and shared by organisations and online platforms. It empowers individuals to make informed decisions about their privacy and provides them with the necessary insights into how their data is being handled.
+
+On the other hand, security encompasses the measures and protocols implemented to safeguard personal data from unauthorised access, breaches and exploitation. By ensuring robust security measures, organisations can protect sensitive information from cyber threats and mitigate the risk of data breaches.
+
+![Data Privacy in the Digital Age](https://arinco.com.au/wp-content/uploads/2024/05/Transparency-Security.jpeg)
+
+# The Intersection of Transparency and Security:
+
+Transparency and security intersect at various points in the data lifecycle, shaping the ways in which personal data is managed and protected online. Transparent data practices foster trust between organisations and individuals, enabling users to have confidence in the handling of their data.
+
+When organisations are transparent about their data collection practices, individuals can make informed choices about the information they share and the platforms they engage with. Moreover, transparency promotes accountability, encouraging organisations to adhere to data protection regulations and ethical standards in their operations.
+
+Security complements transparency by providing the technical safeguards necessary to protect personal data from unauthorised access and malicious activities. Encryption, access controls, and authentication mechanisms are examples of security measures that help fortify digital defences and safeguard sensitive information. By implementing robust security protocols, organisations can mitigate the risk of data breaches and ensure the confidentiality, integrity and availability of personal data.
+
+Together, transparency and security form the foundation of a comprehensive data protection framework, enabling you to maintain control over your personal information in the digital age.
+
+# Essential Tips for Safeguarding Personal Data:
+
+## 1. Be Mindful of Data Sharing
+
+The boilerplate recommendation here is to “Exercise caution when sharing personal information online, especially on social media platforms and websites”. Now this is important, you should always try to limit the amount of personal information you disclose and avoid sharing sensitive details such as address, phone number, date of birth or financial information unless necessary. An interesting exercise is to take the time during a week to see what information you are asked for day to day, what information YOU are sharing and what information you notice that OTHERS are sharing.
+
+I distinctly remember a few years ago looking at a post on reddit where someone was asking for feedback/showing off their home office setup (yeah, yeah, I know that it’s nerdy). Instead of uploading their picture for an image hosting site, they shared a public link to their iCloud photo gallery. They were terrified when I messaged them and suggested that they should remove or blur the following:
+
+- The degree with their full name and university
+- Some personal notes that were captured on their screen
+- The GPS location attached to the image that located them in Hawaii down to the building in the apartment complex.
+
+If you have 10 minutes and want to have your mind blown [JoseMonkey](https://www.youtube.com/@josemonkey) does short 2-3 minute videos on YouTube finding people who want to be found.
+
+## 2. Review Privacy Settings
+
+You should regularly review and adjust privacy settings on social media accounts, email platforms and other online services. You will find that most of the default “privacy” settings are usually not that private. For some sites like “LinkedIn” this can serve a legitimate purpose. For sites like Facebook and Instagram you may wish to have a more private setup. You should always check the privacy controls to see who can access your personal information and restrict visibility to trusted connections.
+
+For example, my Facebook is largely a location for sharing terrible memes about the unhealthy level of coffee I consume, but it also includes information about my family and hobbies. This is information that I do not necessarily want to share with the world so I’ve restricted it to only a subset of people can see the content and my profile is not public.
+
+You should also read the terms and conditions of services you sign up for. Some services can and will sell or share your information with third parties, so they contact you. In some cases, this is legitimate like third party support vendors, though this may also just be selling your details for advertising purposes so give it a good read through.
+
+## 3. Use Strong, Unique Passwords
+
+It’s important to create strong, complex passwords for online accounts and avoid using the same password across multiple platforms. You should consider using a password manager to generate and store unique passwords securely, there are many high-quality password manager applications available, these range from free self-hosted solutions to paid for cloud-based solution to protect your family and/or business. I will not make any recommendations, but you should definitely investigate the available options and see what works best for you if you are not already using one.
+
+## 4. Enable Multi-Factor Authentication (MFA)
+
+Enable multi-factor authentication wherever possible to add an extra layer of security to your accounts. MFA requires a second form of verification on your login beyond your username and password. You can go as far as having a [FIDO key](https://www.microsoft.com/en-us/security/business/security-101/what-is-fido2) which is a physical USB device to connect to your laptop to provide an additional layer of security.
+
+For the majority of users, an authentication app such as the free “Microsoft Authenticator” will do just fine. You should enable MFA of any service that you sign up for, and it is my personal opinion that if a service holds any of your data, it should offer a method of MFA. If it does not, you should seriously consider whether you need to sign up for the service.
+
+## 5. Update Software Regularly
+
+This is another boilerplate recommendation but that does not make it any less important. Keep your devices, operating systems and software up to date with the latest security patches and updates. You should ensure that you regularly install updates (do not just hit dismiss when you are prompted to reboot that computer) and security patches to protect against vulnerabilities and exploits.
+
+The majority of devices such as phones and computers will receive regular security updates from the hardware or software vendor for several years past the purchase date. Once those devices stop receiving updates, you should seriously consider replacing the device with a newer model. This is best practice for a personal device to help keep your information secure.
+
+In a business environment, this can directly impact regulatory and information security requirements as a number of security frameworks including ISO 27001, NIST and ASD essential eight recommend or require that devices be receiving security updates from vendors.
+
+## 6. Encrypt Sensitive Data
+
+Utilise encryption tools and protocols to encrypt sensitive data stored on your devices and transmitted over the internet. Encryption adds an additional layer of protection to your data, making it unreadable to unauthorised parties.
+
+The good news is that with most modern phones the device is encrypted as soon as your put a passcode on it. Some older versions of Android may require you to manually encrypt the storage. You can encrypt SD cards in your device as well which can stop someone taking the SD card out of the device and copying all of your pictures and documents.
+
+## 7. Beware of Phishing Attempts
+
+Phishing scams are essentially an attempt to get you to hand over data that you would not otherwise be willing to provide. These can be as simple as a text message advising you that your toll payments for your car are overdue to login in update payment details or much more complex involving things such as Tech Support scams. My colleague Paul did a write up on the anatomy of a tech support scam here for Cyber Security Awareness Month here [Elevate your Password Security: Cybersecurity Awareness 2023 (arinco.com.au)](https://arinco.com.au/blog/the-anatomy-of-a-tech-scam/). Phishing scams are so effective because they prey on our sense of urgency, the hope is that your sense of urgency overrides your attention to details. The best defence to a phishing attempt is to stay calm. If you feel you are being rushed into something out of the ordinary, take the time to check that everything is as it seems.
+
+The Australian Signals Directorate has some excellent material about what some common types of scans look like [Types of scams | Cyber.gov.au](https://www.cyber.gov.au/learn-basics/watch-out-threats/types-scams) and what action you should take if you think you are being targeted by a phishing attack [Think you’ve been targeted by a phishing attack? | Cyber.gov.au](https://www.cyber.gov.au/threats/types-threats/phishing).
+
+## Conclusion
+
+This blog should not be interpreted as a hit piece to stoke fear and uncertainty, the sole purpose is to raise awareness about digital privacy and how to protect yourself in the digital realm.
+
+Now, this is not to make a blanket statement that sharing information on the internet or using accounts to sync bookmarks and browsing history across devices is a bad idea. As with all things in life, approach the idea with moderation and a clear understanding of what you are actually getting yourself into!
+
+If you want more information about protecting your digital privacy, head over to the Office of the Australian Information Commissioner to look at their information on **[Privacy Awareness Week](https://www.oaic.gov.au/engage-with-us/events/privacy-awareness-week)** and a wealth of other information about staying safe online!
+
+Thanks,  
+Scott
