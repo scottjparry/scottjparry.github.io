@@ -1,0 +1,121 @@
+---
+title: "How to Eat an Elephant: A Step-by-Step Guide to MFA Deployment"
+canonical_url: "https://arinco.com.au/blog/privacy-matters-7-tips-for-safeguarding-your-personal-data/"
+layout: single
+category: 
+- Echoes From Elsewhere
+- Snorkelling
+Tags:
+- Cybersecurity
+- MFA
+- how-to
+author: Scott Parry
+toc: true
+---
+
+**Originally published for Arinco**
+
+{:toc}
+
+# How to Eat an Elephant: A Step-by-Step Guide to MFA Deployment
+
+I’ve often wondered how you tackle a task that seems insurmountable. Something like, “How will I enable MFA across my 500-seat organisation in 60 days?” (Because its October aka. Cybersecurity Awareness Month and mandatory Azure MFA updates are here!). How will I get my IT team migrated before It’s a difficult problem, but I keep thinking… it’s the same way I would eat an elephant: one bite at a time!
+
+Now I know you’re thinking, “That’s insane,” “Why would you eat an elephant?” or “Elephants are lovely,” and I completely agree.
+
+That’s also why:
+
+They are so difficult to eat.
+It’s tricky to get “Microsoft Designer” to make a picture of someone eating an elephant.
+Instead, you get this!
+
+<img src="/assets/blog-images/MFA-Eat-Elephant.png" alt="Eating An Elephant" width="600">
+
+The trick really is in just taking the first bite (or wording)… and, of course, the next few until you’re done.
+
+# Tackling the Elephant in the Room: Where to Start
+
+Let’s set the scene: you work for “Scott’s Example Logistics Company.” You’ve just started with them and are replacing an outgoing engineer who has retired from the small IT team of 15 that provides all IT services for the business, including application development and end-user support.
+
+They employ 500 people:
+
+– 100 of them work in an office or from home, performing various management and back-office tasks.
+– 200 of them work in various warehouse roles.
+– 200 of them work in a delivery function on the road.
+
+The organisation has a mix of licences that all cover Entra ID P1.
+
+You’ve read some blog posts and announcements and know the Azure Portal is enforcing MFA in October and you know you need to act now!
+
+# Assessing the Challenge: Understanding Your Workforce
+
+What do you do first?
+
+Realistically, step 1 is usually “Panic a little bit.” This task is massive, and you have no idea how you’re going to get it done in 60 days.
+
+Step 2 should always be “breathe.” It’s important to do this! It helps you calm down, and it stops you from dying (quite important).
+
+You realise that you have been asked to eat an elephant, and that seems scary. You also realise that it’s not as difficult as you first thought.
+
+While it is an elephant… and it is pretty large, you could make some educated guesses about where to start:
+
+1. Probably not the head (lots of bones and tusks).
+2. Probably not the feet (equally large and difficult to eat).
+3. The tail… that seems like a good place to start.
+
+# First Bite: Start with the IT Team
+
+Why the tail? Well, it’s small; you figure you can probably do that pretty easily and continue from there.
+
+In a similar fashion, you would not tackle this project by targeting the warehouse workers or drivers first.
+
+They are not the easiest to deploy to and test changes with; they are frequently busy, on the move, and time-poor.
+
+Your first port of call is probably… your own team!
+
+The IT team is available, hopefully technically savvy enough to help troubleshoot issues, and forgiving of interruptions to help accommodate increased cybersecurity (you hope).
+
+# Choosing Your Champions: Identifying Early Adopters
+
+Your goals form as below:
+
+1. Deploy MFA to the IT team.
+2. Do it quickly and with limited interruptions.
+3. Scale out the deployment to the rest of the company as quickly as possible.
+
+Take a minute and think: How would you continue to eat this elephant?
+
+You have your pilot/proof-of-concept group (the IT team).
+
+You need a group of end-user champions to help with your rollout, or you won’t be able to continue BAU support while engaging in the rollout.
+
+Your champions are picked from people who are friendly to IT, trusted within the business, and happy to assist with some of the business changes (those important things you have not forgotten about) in this new process.
+
+# The Roadmap: Rolling Out MFA Across the Organisation
+
+You start to realise the task is not as big as it seems.
+
+**Week 1:** You roll out MFA using Entra ID and Microsoft Authenticator to your IT team following the advice here.
+
+**Week 2:** You review the conditional access policies (you set up in report mode) and decide to scope MFA to all Office apps (Outlook/Teams etc) first.
+
+**Week 3:** Roll out to user champions – there are some minor teething issues, but they’re resolved with little business impact. You send out communications several times to the business advising that a change is incoming, with instructions.
+
+**Week 4:** You take a phased approach throughout the week, targeting the rest of head office and 40 drivers/warehouse workers each day. You experience some additional issues and update your rollout steps accordingly.
+
+**Week 5:** You deploy to the remaining 200 drivers and warehouse workers with a staged approach. The deployment goes smoothly, and everyone is onboarded with no productivity issues.
+
+**Week 6:** You start scoping out the back-office applications to cut over to MFA using authentication via Entra ID.
+
+**Weeks 7-8:** You migrate the authentication of your backend applications over to Entra ID with no business impact.
+
+# The Final Bite: Securing Your Backend Applications
+
+**Week 9:** You realise… you’re actually quite proficient at eating elephants, and it’s really all just about having a plan…now you can start targeting your other applications using the same process above.
+
+Ready to Eat Your Elephant?
+And there you have it – deploying MFA isn’t so different from eating an elephant; it’s all about taking it one bite at a time. Whether you’re just starting or have already taken a few bites, remember that a plan and a little patience go a long way. If you need help with your elephant-sized challenge, reach out to Arinco. We’re here to guide you through every bite!
+
+Additional guidance around deploying MFA in Azure can be found here [How to implement Multi-Factor Authentication (MFA) | Microsoft Security Blog](https://www.microsoft.com/en-us/security/blog/2020/01/15/how-to-implement-multi-factor-authentication/?msockid=3e88f2cfba8b6fe601afe6bdbbb96ea7)
+
+The Australian Cyber Security Centre and Australian Signals Directorate recommend enabling MFA as one its top 4 tips to improve cyber security. More information and resources about Cyber Security Awareness month can be found here [Cyber Security Awareness Month 2024 | Cyber.gov.au](https://www.cyber.gov.au/learn-basics/view-resources/cyber-security-awareness-month?utm_source=article&utm_medium=CGA&utm_campaign=CAM2024)
