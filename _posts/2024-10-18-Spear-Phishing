@@ -1,0 +1,86 @@
+---
+title: "Don’t Get Caught: How to Spot a Spear Phishing Attack"
+canonical_url: "https://arinco.com.au/blog/dont-get-caught-how-to-spot-a-spear-phishing-attack/"
+layout: single
+category: 
+- Echoes From Elsewhere
+- Snorkelling
+Tags:
+- Cybersecurity
+- Phishing
+- How-To
+author: Scott Parry
+toc: true
+---
+
+**Originally published for Arinco**
+
+{:toc}
+
+<img src="/assets/blog-images/Gone-Phishing.png" alt="Gone-Phishing" width="600">
+
+# Don’t Get Caught: How to Spot a Spear Phishing Attack
+
+The year is 2024.
+
+Cyber-attacks, or online hacks, are on the rise.
+
+You’re at your desk, reviewing the 2024 Microsoft Digital Defense Report.
+
+In 2023, an estimated 775 million email messages contained malware, marking a 58% increase in phishing attacks.
+
+“Phishing attacks attempt to steal identities, including by compromising vendors and abusing legitimate services.”
+You regularly conduct phishing simulation training (a test from your security team to see if employees can spot fake emails). You know that your employees are the preferred target for hackers to attack your business.
+
+Social engineering is a term that describes hackers manipulating people to give up confidential information. These attacks exploit human nature and our desire to be helpful.
+
+# Phishing: The Everyday Cyber Threat
+
+<img src="/assets/blog-images/Gone-Phishing-Trawler-1.png" alt="Trawling for Phish" width="600">
+
+
+Phishing attacks focus on quantity over quality, much like a fishing trawler. Hackers will send out a large number of emails, casting a wide net to see what they can “catch.”
+
+These attacks often use well-known scams, such as the infamous “Nigerian Prince” email, or more common ones that claim your Amazon, Netflix, or Apple account has an issue, prompting you to log in to check. The goal is to catch you off guard when you’re not paying close attention, hoping you’ll make a mistake and click on a bad link.
+
+
+<img src="/assets/blog-images/Gone-Phishing-SpearPhish-1.png" alt="A cheetah Spear Phishing" width="600">
+
+Spear phishing is a different type of attack. Unlike phishing, which targets lots of people at once, spear phishing is much more personal and precise. It prioritises quality over quantity.
+While a phishing attack is like a fishing trawler, a spear phisher is more like a cheetah. Cheetahs will not waste energy chasing random prey. They pick a specific target, study it carefully, and wait for the right moment to strike. The cheetah hunts with speed and precision, just like a spear phisher who studies their victim and crafts a customised attack to trick them.
+
+Spear phishing attacks are highly targeted. Hackers gather information about you—your work, your contacts, or even your personal interests—and use it to send you an email that feels relevant and legitimate. The more personal it seems, the more likely you are to fall for it.
+
+Here’s an example of a spear phishing email I received just this month:
+
+<img src="/assets/blog-images/Gone-Phishing-Example.png" alt="Example SpearPhishing Message" width="600">
+
+This email can be identified as suspicious because:
+
+- The sender’s email address is clearly incorrect.
+- The “hook” is Chris, one of the founders of Arinco, asking if I’m available.
+    - This creates a sense of urgency, making it seem like a senior leader needs a quick response.
+- There’s no contact information or email signature, which would normally be included in a professional email.
+
+While this is a basic example, I’ve seen far more elaborate spear phishing attacks in previous roles, where attackers exchanged multiple emails with an employee, trying to trick them into changing banking details for an upcoming invoice run.
+
+# How to Protect Yourself from Phishing
+
+These attacks are far from “simple” or “low effort.” Hackers spend their time researching a target, crafting an email to look legitimate. They are likely to pose as a co-worker or someone in a position of authority. They want to avoid suspicion.
+
+To stay protected, you need more than just standard compliance training. Watching a video every six months isn’t enough. Regular phishing simulations must be conducted, as practical examples of phishing are crucial to staying protected!
+
+Here are some tips that can help you and your team stay protected:
+
+- **Verify the sender’s email address:** Check that the sender’s email address is correct and matches the person’s identity.
+- **Check URLs carefully:** Hover over the URL, and if it doesn’t match the legitimate website, beware!
+- **Recognise urgency:** If the email tries to get you to act quickly without thinking—stop and take a breath!
+- **Be cautious of requests for sensitive information:** If someone asks for your login details, financial information, or anything sensitive, take a step back and double-check.
+- **Engage with simulated phishing attacks:** Participate in phishing simulations at work to improve your skills in identifying fake emails.
+- **Report suspicious emails:** If you receive a suspicious email, report it to your IT or security team immediately.
+
+Take action now—share this post with your team and help spread awareness about phishing.
+
+By educating your team, they will be more able to detect and stop phishing attacks!
+
+You can also read the Microsoft Digital Defense Report for 2024 [here](https://www.microsoft.com/en-us/security/security-insider/intelligence-reports/microsoft-digital-defense-report-2024).
