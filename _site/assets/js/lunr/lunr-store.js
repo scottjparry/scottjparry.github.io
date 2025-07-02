@@ -1,6 +1,6 @@
 var store = [{
         "title": "Transitioning from System Engineer to IT Consultant: Leveraging Your Existing Skills",
-        "excerpt":"Originally published for Arinco Transitioning from System Engineer to IT Consultant: Leveraging Your Existing Skills Are you a seasoned systems engineer looking to make the leap into the world of IT consulting? Are you worried that you are too much of a generalist to become a specialist? It can be...","categories": ["Echoes From Elsewhere","Dive Buddies"],
+        "excerpt":"Originally published for Arinco Transitioning from System Engineer to IT Consultant: Leveraging Your Existing Skills Are you a seasoned systems engineer looking to dive into the world of Azure consulting? Worried that your skills are too broad for a specialised role? It may seem intimidating, but rest assured, this transition...","categories": ["Echoes From Elsewhere","Dive Buddies"],
         "tags": [],
         "url": "/echoes%20from%20elsewhere/dive%20buddies/2024/10/09/System-Engineer-to-IT-Consultant.html",
         "teaser": null
@@ -53,6 +53,12 @@ var store = [{
         "url": "/2025/04/28/Leadership-Isnt-Always-A-Pep-Rally.html",
         "teaser": null
       },{
+        "title": "Rubber Duck 2",
+        "excerpt":"Rubber Duck 2.0: Debug Smarter, Judge Less ","categories": [],
+        "tags": [],
+        "url": "/2025/05/29/Rubber-Duck-2.0",
+        "teaser": null
+      },{
     "title": "About",
     "excerpt":"What’s up? Looks at the sky - yeah I know…its a bad joke- you’ll get used to it… If we haven’t met before, my name is Scott. I’m a recovering Systems Engineer turned Cloud Architect, working for a leading Microsoft Partner in Sydney. I spend my (work) days adapting to...","url": "http://localhost:4000/about/"
   },{
@@ -63,7 +69,7 @@ var store = [{
     "excerpt":"Contact Me   I’d love to hear from you! Feel free to reach out via email or social media.      Email: scott@parrybytes.cloud   GitHub: scottjparry   LinkedIn: scottjparry  ","url": "http://localhost:4000/contact/"
   },{
     "title": "Page Archive",
-    "excerpt":"                                                                                                       About                                                                   Posts by Category                                                                   Contact                                                                                                                                                                                                         Page Archive                                                                   Posts by Tag                                                                   Posts by Year                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ","url": "http://localhost:4000/page-archive/"
+    "excerpt":"                                                                                                       About                                                                   Posts by Category                                                                   Contact                                                                                                                                      Page Archive                                                                   Posts by Tag                                                                   Posts by Year                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ","url": "http://localhost:4000/page-archive/"
   },{
     "title": "Posts by Tag",
     "excerpt":" ","url": "http://localhost:4000/tags/"

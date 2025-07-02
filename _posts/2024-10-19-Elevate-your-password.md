@@ -1,8 +1,15 @@
 ---
 author: Scott Parry
 canonical_url: "https://arinco.com.au/blog/elevate-your-password-security/"
-category: Echoes From Elsewhere
+category: [Echoes From Elsewhere]
+Tags: [Password, Cybersecurity, Awareness]
 Excerpt: "A blog post for Arinco to hightlight Cybersecurity Awareness Month 2024"
+last_modified_date: 2024-10-19
+sidebar:
+  - title: "Difficulty Level"
+    text: "Beginner"
+  - title: "Time Required"
+    text: "5 minutes"
 toc: true
 ---
 

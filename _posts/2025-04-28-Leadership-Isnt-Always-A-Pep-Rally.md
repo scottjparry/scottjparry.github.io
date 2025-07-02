@@ -2,6 +2,9 @@
 title: "Leadership Isn't Always a Pep Rally: Sometimes It's Just Good Process"
 layout: single
 author: Velvet Hammer
+Category:
+- Dive Buddies
+
 toc: true
 ---
 
@@ -46,7 +49,7 @@ I'm obsessed with the signal-to-noise ratio. Good leadership is making sure comm
 
 In short, I’m not the glass-half-full leader, nor the glass-half-empty one. I’m the "who's in charge of topping up the glass?" leader. It's the difference between optimism and operational reality.
 
-## Most IT Projects Are Simple — If You Manage the Process
+## Most IT Projects Are Simple, If You Manage the Process
 Here’s the dirty little secret of most IT projects, especially in cloud and security:
 
 - **The technology is not the hard part.**
@@ -61,7 +64,7 @@ Communication is making sure people know what’s happening, when, why it matter
 So when I "lead," it’s not with relentless smiles or rah-rah speeches. It’s with deliberate planning, direct communication, and ruthless clarity on what matters. That's what builds trust. That's what drives outcomes. That’s what gets projects done.
 
 ## The Velvet Hammer Approach
-I’ve been described as a "velvet hammer" — direct but not cruel, firm but fair, outcomes-focused without trampling people.
+I’ve been described as a "velvet hammer" direct but not cruel, firm but fair, outcomes-focused without trampling people.
 
 **That’s leadership too.**
 It just looks less like a TED talk and more like an architect quietly pointing out where the foundation needs to be reinforced before the house collapses.

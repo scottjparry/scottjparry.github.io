@@ -10,25 +10,24 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Posts by Year - Parrybytes</title>
-<meta name="description" content="Cybersecurity, with less doom and gloom and more ‘Ah, I get it now!’">
+<!-- begin _includes/seo.html --><title>Rubber Duck 2 - Parrybytes</title>
+<meta name="description" content="Rubber Duck 2.0: Debug Smarter, Judge Less">
 
 
   <meta name="author" content="Scott Parry">
   
+  <meta property="article:author" content="Scott Parry">
+  
 
 
-<meta property="og:type" content="website">
+<meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Parrybytes">
-<meta property="og:title" content="Posts by Year">
-<meta property="og:url" content="http://localhost:4000/year-archive/">
+<meta property="og:title" content="Rubber Duck 2">
+<meta property="og:url" content="http://localhost:4000/2025/05/29/Rubber-Duck-2.0">
 
 
-  <meta property="og:description" content="Cybersecurity, with less doom and gloom and more ‘Ah, I get it now!’">
-
-
-
+  <meta property="og:description" content="Rubber Duck 2.0: Debug Smarter, Judge Less">
 
 
 
@@ -36,9 +35,14 @@
 
 
 
+  <meta property="article:published_time" content="2025-05-29T00:00:00+10:00">
 
 
-<link rel="canonical" href="http://localhost:4000/year-archive/">
+
+
+
+
+<link rel="canonical" href="http://localhost:4000/2025/05/29/Rubber-Duck-2.0">
 
 
 
@@ -78,7 +82,7 @@
 
   </head>
 
-  <body class="layout--posts" dir="ltr">
+  <body class="layout--single" dir="ltr">
     <nav class="skip-links">
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
@@ -156,6 +160,8 @@
 
     <div class="initial-content">
       
+
+
 
 
 
@@ -272,51 +278,20 @@
 
 
 
-  <div class="archive">
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Rubber Duck 2">
+    <meta itemprop="description" content="Rubber Duck 2.0: Debug Smarter, Judge Less">
+    <meta itemprop="datePublished" content="2025-05-29T00:00:00+10:00">
     
-      <h1 id="page-title" class="page__title">Posts by Year</h1>
-    
-    
 
-
-<ul class="taxonomy__index">
-  
-  
-    <li>
-      <a href="#2025">
-        <strong>2025</strong> <span class="taxonomy__count">8</span>
-      </a>
-    </li>
-  
-    <li>
-      <a href="#2024">
-        <strong>2024</strong> <span class="taxonomy__count">2</span>
-      </a>
-    </li>
-  
-</ul>
-
-
-
-
-  <section id="2025" class="taxonomy__section">
-    <h2 class="archive__subtitle">2025</h2>
-    <div class="entries-list">
+    <div class="page__inner-wrap">
       
-        
-
-
-
-<div class="list__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      
-        <a href="/2025/05/29/Rubber-Duck-2.0" rel="permalink">Rubber Duck 2
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">
+            <a href="http://localhost:4000/2025/05/29/Rubber-Duck-2.0" itemprop="url">Rubber Duck 2
 </a>
-      
-    </h2>
-    
+          </h1>
+          
 
   <p class="page__meta">
     
@@ -337,17 +312,78 @@
   </p>
 
 
-    <p class="archive__item-excerpt" itemprop="description">Rubber Duck 2.0: Debug Smarter, Judge Less
-</p>
-  </article>
-</div>
-
+        </header>
       
+
+      <section class="page__content" itemprop="text">
+        
+        Rubber Duck 2.0: Debug Smarter, Judge Less
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
         
 
 
+        
 
-<div class="list__item">
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2025-05-29T00:00:00+10:00">May 29, 2025</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  <h4 class="page__share-title">Share on</h4>
+
+  <a href="https://x.com/intent/tweet?text=Rubber+Duck+2%20http%3A%2F%2Flocalhost%3A4000%2F2025%2F05%2F29%2FRubber-Duck-2.0" class="btn btn--x" aria-label="Share on X" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on X">
+    <i class="fab fa-fw fa-x-twitter" aria-hidden="true"></i><span> X</span>
+  </a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2F2025%2F05%2F29%2FRubber-Duck-2.0" class="btn btn--facebook" aria-label="Share on Facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook">
+    <i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span>
+  </a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/2025/05/29/Rubber-Duck-2.0" class="btn btn--linkedin" aria-label="Share on LinkedIn" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn">
+    <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
+  </a>
+
+  <a href="https://bsky.app/intent/compose?text=Rubber+Duck+2%20http%3A%2F%2Flocalhost%3A4000%2F2025%2F05%2F29%2FRubber-Duck-2.0" class="btn btn--bluesky" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Bluesky">
+    <i class="fab fa-fw fa-bluesky" aria-hidden="true"></i><span> Bluesky</span>
+  </a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/2025/04/28/Leadership-Isnt-Always-A-Pep-Rally.html" class="pagination--pager" title="Leadership Isn’t Always a Pep Rally: Sometimes It’s Just Good Process">Previous</a>
+    
+    
+      <a href="#" class="pagination--pager disabled">Next</a>
+    
+  </nav>
+
+
+    </div>
+
+    
+  </article>
+
+  
+  
+    
+<div class="page__related">
+  
+  <h2 class="page__related-title">You May Also Enjoy</h2>
+  <div class="grid__wrapper">
+    
+      
+      
+
+
+
+<div class="grid__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     
     <h2 class="archive__item-title no_toc" itemprop="headline">
@@ -382,12 +418,13 @@
   </article>
 </div>
 
+    
       
-        
+      
 
 
 
-<div class="list__item">
+<div class="grid__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     
     <h2 class="archive__item-title no_toc" itemprop="headline">
@@ -422,12 +459,13 @@
   </article>
 </div>
 
+    
       
-        
+      
 
 
 
-<div class="list__item">
+<div class="grid__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     
     <h2 class="archive__item-title no_toc" itemprop="headline">
@@ -462,12 +500,13 @@
   </article>
 </div>
 
+    
       
-        
+      
 
 
 
-<div class="list__item">
+<div class="grid__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     
     <h2 class="archive__item-title no_toc" itemprop="headline">
@@ -502,221 +541,12 @@
   </article>
 </div>
 
-      
-        
-
-
-
-<div class="list__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      
-        <a href="/echoes%20from%20elsewhere/post-types/2025/04/15/Echoes-From-Elsewhere.html" rel="permalink">Echoes From Elsewhere
-</a>
-      
-    </h2>
-    
-
-  <p class="page__meta">
-    
-
-    
-
-    
-      
-      
-
-      <span class="page__meta-readtime">
-        <i class="far fa-clock" aria-hidden="true"></i>
-        
-          less than 1 minute read
-        
-      </span>
-    
-  </p>
-
-
-    <p class="archive__item-excerpt" itemprop="description">🌊 Echoes from Elsewhere
-</p>
-  </article>
-</div>
-
-      
-        
-
-
-
-<div class="list__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      
-        <a href="/dive%20buddies/post-types/2025/04/15/Dive-Buddies.html" rel="permalink">Dive Buddies
-</a>
-      
-    </h2>
-    
-
-  <p class="page__meta">
-    
-
-    
-
-    
-      
-      
-
-      <span class="page__meta-readtime">
-        <i class="far fa-clock" aria-hidden="true"></i>
-        
-          less than 1 minute read
-        
-      </span>
-    
-  </p>
-
-
-    <p class="archive__item-excerpt" itemprop="description">🤿 Dive Buddies
-</p>
-  </article>
-</div>
-
-      
-        
-
-
-
-<div class="list__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      
-        <a href="/deep%20dives/post-types/2025/04/15/Deep-Dives.html" rel="permalink">Deep Dives
-</a>
-      
-    </h2>
-    
-
-  <p class="page__meta">
-    
-
-    
-
-    
-      
-      
-
-      <span class="page__meta-readtime">
-        <i class="far fa-clock" aria-hidden="true"></i>
-        
-          less than 1 minute read
-        
-      </span>
-    
-  </p>
-
-
-    <p class="archive__item-excerpt" itemprop="description">🦑 Deep Dives
-</p>
-  </article>
-</div>
-
-      
-    </div>
-    <a href="#page-title" class="back-to-top">Back to Top &uarr;</a>
-  </section>
-
-  <section id="2024" class="taxonomy__section">
-    <h2 class="archive__subtitle">2024</h2>
-    <div class="entries-list">
-      
-        
-
-
-
-<div class="list__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      
-        <a href="/echoes%20from%20elsewhere/2024/10/19/Elevate-your-password.html" rel="permalink">Elevate Your Password
-</a>
-      
-    </h2>
-    
-
-  <p class="page__meta">
-    
-
-    
-
-    
-      
-      
-
-      <span class="page__meta-readtime">
-        <i class="far fa-clock" aria-hidden="true"></i>
-        
-          4 minute read
-        
-      </span>
-    
-  </p>
-
-
-    <p class="archive__item-excerpt" itemprop="description">Originally published for Arinco
-</p>
-  </article>
-</div>
-
-      
-        
-
-
-
-<div class="list__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      
-        <a href="/echoes%20from%20elsewhere/dive%20buddies/2024/10/09/System-Engineer-to-IT-Consultant.html" rel="permalink">Transitioning from System Engineer to IT Consultant: Leveraging Your Existing Skills
-</a>
-      
-    </h2>
-    
-
-  <p class="page__meta">
-    
-
-    
-
-    
-      
-      
-
-      <span class="page__meta-readtime">
-        <i class="far fa-clock" aria-hidden="true"></i>
-        
-          7 minute read
-        
-      </span>
-    
-  </p>
-
-
-    <p class="archive__item-excerpt" itemprop="description">Originally published for Arinco
-</p>
-  </article>
-</div>
-
-      
-    </div>
-    <a href="#page-title" class="back-to-top">Back to Top &uarr;</a>
-  </section>
-
-
   </div>
+</div>
+
+  
+  
 </div>
 
       
